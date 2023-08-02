@@ -28,17 +28,21 @@ header a:hover{
     text-decoration: underline;
 }
 
-header a img{
+.puntitos{
     width: 20px;
     opacity: 1;
     padding: 8px;
 }
 
-header a img:hover {
+.puntitos:hover {
     background-color: #dadce0;
     box-shadow: 0 1px 6px rgba(32,33,36,.28);
     border-color: rgba(223,225,229,0);
     border-radius: 50px;
+}
+
+.puntitos:focus .apps {
+    display: block;
 }
 
 .acceder{
@@ -62,6 +66,50 @@ header a img:hover {
 .acceder:hover{
     background-color: #1863c6;
 }
+
+.apps{
+    display: none;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 40vh;
+    background-color: white;
+    border: solid 10px #dadce0;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 500px;
+    margin-right: 30px;
+}
+
+.textoApps{
+    align-self:center ;
+    color: #202124;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.textoApps:hover{
+    text-decoration: underline;
+}
+
+.iconApps{
+    margin: 5px;
+    width: 40px;
+    height: 40px;
+}
+
+.iconApps:hover{
+    cursor: pointer;
+    background-color: #dadce0;
+    border-radius: 50px;
+}
+
+
+
+
+
 
 .contenido{
     display: flex;
@@ -106,7 +154,7 @@ header a img:hover {
 }
 
 #buscar:focus{
-    border: 0px;
+    outline: none;
 }
 
 .botones{
@@ -174,3 +222,4 @@ footer div a{
     white-space: nowrap;
     color: #70757a;
 }
+
