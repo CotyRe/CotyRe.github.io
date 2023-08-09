@@ -28,6 +28,11 @@ header a:hover{
     text-decoration: underline;
 }
 
+.dropdown{
+    position: relative;
+    display: inline-block;
+}
+
 .puntitos{
     width: 20px;
     opacity: 1;
@@ -41,9 +46,10 @@ header a:hover{
     border-radius: 50px;
 }
 
-.puntitos:focus .apps {
+*.puntitos:focus .apps {
     display: block;
 }
+.show {display: flex;}
 
 .acceder{
     background-color: #1a73e8;
@@ -77,8 +83,9 @@ header a:hover{
     border: solid 10px #dadce0;
     border-radius: 10px;
     position: absolute;
-    margin-top: 500px;
-    margin-right: 30px;
+    *margin-top: 500px;
+    *margin-right: 30px;
+    overflow: auto;
 }
 
 .textoApps{

@@ -14,20 +14,43 @@
         <nav>
             <a href="https://www.google.com/intl/es-419/gmail/about/">Gmail</a>
             <a href="https://www.google.com/imghp?hl=es-419&ogbl">Imágenes</a>
-            <a href=""><img src="img/dots-app.png" alt="" class="puntitos"></a>
-            <div class="apps">
-                <a href="" class="textoApps"><img src="img/icono-cuenta.png" alt="" class="iconApps">Cuenta</a>
-                <a href="" class="textoApps"><img src="img/search-icon.png" alt="" class="iconApps">Búsqueda</a>
-                <a href="" class="textoApps"><img src="img/icono-maps.png" alt="" class="iconApps">Maps</a>
-                <a href="" class="textoApps"><img src="img/icono-youtube.png" alt="" class="iconApps">YouTube</a>
-                <a href="" class="textoApps"><img src="img/icono-play.png" alt="" class="iconApps">Play</a>
-                <a href="" class="textoApps"><img src="img/icono-noticias.png" alt="" class="iconApps">Noticias</a>
-                <a href="" class="textoApps"><img src="img/icono-gmail.png" alt="" class="iconApps">Gmail</a>
-                <a href="" class="textoApps"><img src="img/icono-meet.png" alt="" class="iconApps">Meet</a>
-                <a href="" class="textoApps"><img src="img/icono-chat.png" alt="" class="iconApps">Chat</a>
-                <a href="" class="textoApps"><img src="img/icono-contactos.png" alt="" class="iconApps">Contactos</a>
-                <a href="" class="textoApps"><img src="img/icono-drive.png" alt="" class="iconApps">Drive</a>
-                <a href="" class="textoApps"><img src="img/icono-calendar.png" alt="" class="iconApps">Calendario</a>
+            <div class="dropdown">
+                <a href=""><img src="img/dots-app.png" alt="" onclick="myFunction()" class="puntitos"></a>
+                <div id="myDropdown" class="apps">
+                    <a href="" class="textoApps"><img src="img/icono-cuenta.png" alt="" class="iconApps">Cuenta</a>
+                    <a href="" class="textoApps"><img src="img/search-icon.png" alt="" class="iconApps">Búsqueda</a>
+                    <a href="" class="textoApps"><img src="img/icono-maps.png" alt="" class="iconApps">Maps</a>
+                    <a href="" class="textoApps"><img src="img/icono-youtube.png" alt="" class="iconApps">YouTube</a>
+                    <a href="" class="textoApps"><img src="img/icono-play.png" alt="" class="iconApps">Play</a>
+                    <a href="" class="textoApps"><img src="img/icono-noticias.png" alt="" class="iconApps">Noticias</a>
+                    <a href="" class="textoApps"><img src="img/icono-gmail.png" alt="" class="iconApps">Gmail</a>
+                    <a href="" class="textoApps"><img src="img/icono-meet.png" alt="" class="iconApps">Meet</a>
+                    <a href="" class="textoApps"><img src="img/icono-chat.png" alt="" class="iconApps">Chat</a>
+                    <a href="" class="textoApps"><img src="img/icono-contactos.png" alt="" class="iconApps">Contactos</a>
+                    <a href="" class="textoApps"><img src="img/icono-drive.png" alt="" class="iconApps">Drive</a>
+                    <a href="" class="textoApps"><img src="img/icono-calendar.png" alt="" class="iconApps">Calendario</a>
+                </div>
+                <script>
+                    /* When the user clicks on the button, 
+                    toggle between hiding and showing the dropdown content */
+                    function myFunction() {
+                    document.getElementById("myDropdown").classList.toggle("show");
+                    }
+                    
+                    // Close the dropdown if the user clicks outside of it
+                    window.onclick = function(event) {
+                    if (!event.target.matches('.puntitos')) {
+                        var dropdown = document.getElementsByClassName("apps");
+                        var i;
+                        for (i = 0; i < dropdown.length; i++) {
+                        var openDropdown = dropdown[i];
+                        if (openDropdown.classList.contains('show')) {
+                            openDropdown.classList.remove('show');
+                        }
+                        }
+                    }
+                    }
+                    </script>
             </div>
             <a href="https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fwebhp%3Fhl%3Des-419%26sa%3DX%26ved%3D0ahUKEwi6l5SHmrSAAxVwpZUCHeTCAUgQPAgI&ec=GAZAmgQ&hl=es-419&ifkv=AeDOFXjNS7hxZhBJH4qlqoHYcL5wYsK173K17vCvpJV3AhubOsPVI7xQCrzPJY7GQ2_iNLhioiHm&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S101190216%3A1690727320119646" class="acceder">Acceder</a>
         </nav>
