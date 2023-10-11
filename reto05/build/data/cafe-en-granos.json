@@ -1,0 +1,268 @@
+{"products":[
+    {
+        "id": "eb90c215-649e-4c2c-960f-8db8ac962904",
+        "title": "Nicaragua Single Origin ",
+        "subtitle": "",
+        "body": "Café de tostado suave con notas dulces de melón, la frescura del limón y frutos secos.",
+        "url": "/producto/nicaragua-single-origin",
+        "menu": {
+            "id": "0038d218-4879-442b-8ee6-f18d83b9a2ae",
+            "name": "Tostado Blonde",
+            "description": "",
+            "url": "/menu/en-casa/cafe-en-granos/cafe-en-granos",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FNicaragua-Single-425x425.png",
+            "alt": "Nicaragua Single Origin"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FNicaragua-Single-425x425.png",
+            "alt": "Nicaragua Single Origin"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FNicaragua-Single-425x425.png",
+            "alt": "Nicaragua Single Origin"
+        },
+        "section": "",
+        "seo": {
+            "title": "Nicaragua Single Origin",
+            "description": "Café Nicaragua Single Origin\r\n",
+            "keyword": "Nicaragua Single Origin"
+        }
+    },
+    {
+        "id": "9d1404e2-2ca2-47bc-8021-c34f846d7405",
+        "title": "Guatemala Casi Cielo",
+        "subtitle": "",
+        "body": "Este café de origen es una celebración de toda la magia de los fértiles valles de Antigua en Guatemala. De tostado y cuerpo medio, tiene un brillo seductor similar al del limón y notas de chocolate suave.",
+        "url": "/producto/guatemala-casi-cielo",
+        "menu": {
+            "id": "7bc8fcf2-be0f-4ae8-b199-9eafe2935221",
+            "name": "Tostado Medio",
+            "description": "",
+            "url": "/menu/en-casa/cafe-en-granos/cafe-en-granos",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCasi-Cielo-425x425.png",
+            "alt": "Guatemala Casi Cielo"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCasi-Cielo-425x425.png",
+            "alt": "Guatemala Casi Cielo"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCasi-Cielo-425x425.png",
+            "alt": "Guatemala Casi Cielo"
+        },
+        "section": "",
+        "seo": {
+            "title": "Guatemala Casi Cielo",
+            "description": "Guatemala Casi Cielo\r\n",
+            "keyword": "Guatemala Casi Cielo"
+        }
+    },
+    {
+        "id": "5e43a3bf-60ad-4e4c-abf8-8acdcc632283",
+        "title": "Café Sumatra",
+        "subtitle": "",
+        "body": "Café de origen con tostado oscuro, cuerpo completo y consistente. Su sabor predominante es terroso y herbal. Acompañá tu café con un complemento de canela, avena o queso. Probalo con nuestro Scon de 4 quesos!",
+        "url": "/producto/cafe-sumatra",
+        "menu": {
+            "id": "9b8f3761-190d-43e7-9ccb-66c9a301906f",
+            "name": "Tostado Oscuro",
+            "description": "",
+            "url": "/menu/en-casa/cafe-en-granos/cafe-en-granos",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSumatra-425x425.png",
+            "alt": "Café Sumatra"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSumatra-425x425.png",
+            "alt": "Café Sumatra"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSumatra-425x425.png",
+            "alt": "Café Sumatra"
+        },
+        "section": "",
+        "seo": {
+            "title": "Café Sumatra",
+            "description": "Café Sumatra\r\n",
+            "keyword": "Café Sumatra"
+        }
+    },
+    {
+        "id": "2b31b85e-ae9e-4802-bda5-73fe9707d79a",
+        "title": "Café Verona",
+        "subtitle": "",
+        "body": "Blend de granos de Latinoamérica e Indonesia. Es un café de tostado oscuro con sabores a cacao negro y dulce. Acompañá tu café con un complemento de chocolate, nueces, caramelo o especias. Contenido: 250 g",
+        "url": "/producto/cafe-verona",
+        "menu": {
+            "id": "9b8f3761-190d-43e7-9ccb-66c9a301906f",
+            "name": "Tostado Oscuro",
+            "description": "",
+            "url": "/menu/en-casa/cafe-en-granos/cafe-en-granos",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FVerona-425x425.png",
+            "alt": "Café Verona"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FVerona-425x425.png",
+            "alt": "Café Verona"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FVerona-425x425.png",
+            "alt": "Café Verona"
+        },
+        "section": "",
+        "seo": {
+            "title": "Café Verona",
+            "description": "Café Verona\r\n",
+            "keyword": "Café Verona"
+        }
+    },
+    {
+        "id": "3a287ab5-4421-43ef-b59c-186213d9afbb",
+        "title": "Café Colombia",
+        "subtitle": "",
+        "body": "Café de origen, su tostado y cuerpo es medio con sutiles sabores a frutos secos y hierbas frescas. Acompañá tu café con un complemento de chocolate o caramelo.",
+        "url": "/producto/cafe-colombia",
+        "menu": {
+            "id": "7bc8fcf2-be0f-4ae8-b199-9eafe2935221",
+            "name": "Tostado Medio",
+            "description": "",
+            "url": "/menu/en-casa/cafe-en-granos/cafe-en-granos",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FColombia-425x425.png",
+            "alt": "Café Colombia"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FColombia-425x425.png",
+            "alt": "Café Colombia"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FColombia-425x425.png",
+            "alt": "Café Colombia"
+        },
+        "section": "",
+        "seo": {
+            "title": "Café Colombia",
+            "description": "Café Colombia\r\n",
+            "keyword": "Café Colombia"
+        }
+    },
+    {
+        "id": "ed9e2be9-7727-460b-a37e-6ab227d3a4c2",
+        "title": "Café Pike Place",
+        "subtitle": "",
+        "body": "Este café conmemora nuestra primera tienda en el Pike Place Market de Seattle. Un café que es nuestra identidad: una mezcla suave y equilibrada de granos de Latinoamérica con sabores sutilmente intensos a cacao y a frutos secos tostados. Disfrutalo con un Chocolate Croissant o con un Muffin de Choco Chips. Contenido: 250gr.",
+        "url": "/producto/cafe-pike-place",
+        "menu": {
+            "id": "7bc8fcf2-be0f-4ae8-b199-9eafe2935221",
+            "name": "Tostado Medio",
+            "description": "",
+            "url": "/menu/en-casa/cafe-en-granos/cafe-en-granos",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FPike-Place-425x425.png",
+            "alt": "Café Pike Place"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FPike-Place-425x425.png",
+            "alt": "Café Pike Place"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FPike-Place-425x425.png",
+            "alt": "Café Pike Place"
+        },
+        "section": "",
+        "seo": {
+            "title": "Café Pike Place",
+            "description": "Café Pike Place\r\n",
+            "keyword": "Café Pike Place"
+        }
+    },
+    {
+        "id": "a306c20d-7698-4279-bac1-162c9241502e",
+        "title": "Café Espresso Roast",
+        "subtitle": "",
+        "body": "Blend de granos de Latinoamérica con un tostado oscuro. Es el corazón de todas nuestras bebidas que podes tener en tu casa. Su sabor es intenso, dulce y acaramelado, ideal para acompañarlo con un complemento de chocolate, nueves, caramelo o especias.",
+        "url": "/producto/cafe-espresso-roast",
+        "menu": {
+            "id": "9b8f3761-190d-43e7-9ccb-66c9a301906f",
+            "name": "Tostado Oscuro",
+            "description": "",
+            "url": "/menu/en-casa/cafe-en-granos/cafe-en-granos",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FEspresso-425x425.png",
+            "alt": "Café Espresso Roast"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FEspresso-425x425.png",
+            "alt": "Café Espresso Roast"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FEspresso-425x425.png",
+            "alt": "Café Espresso Roast"
+        },
+        "section": "",
+        "seo": {
+            "title": "Café Espresso Roast",
+            "description": "Café Espresso Roast\r\n",
+            "keyword": "Café Espresso Roast"
+        }
+    }
+]}

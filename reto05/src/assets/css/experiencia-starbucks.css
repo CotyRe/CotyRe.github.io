@@ -1,0 +1,39 @@
+body{
+    font-family: SoDo Sans,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5;
+    letter-spacing: -.01em;
+}
+
+.encabezado{
+    background-color: #1e3932;
+    margin: 0px;
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    align-items: center;
+    display: block;
+}
+.h1-experiencia{
+    color: white;
+    font-weight: 700;
+    font-size: 40px;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.titulo-2{
+    color: #1e3932;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.bloque{
+    display: grid;
+
+}

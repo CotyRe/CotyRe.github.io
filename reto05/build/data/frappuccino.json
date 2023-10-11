@@ -1,0 +1,230 @@
+{"products":[
+    {
+        "id": "b8083a3d-64d2-472c-ba49-238443368ce1",
+        "title": "Chai Frappuccino®",
+        "subtitle": "",
+        "body": "Nuestro Té Chai combinado con leche, hielo molido y una deliciosa terminación de crema batida.",
+        "url": "/producto/chai-frappuccinor",
+        "menu": {
+            "id": "651f49ab-a3cf-4c2a-880a-625e79e9fb5e",
+            "name": "Frappuccino® sin café",
+            "description": "",
+            "url": "/menu/bebidas/frappuccino/frappuccino-sin-cafe",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FWhite%20Mocha%20Frapp%20425x425%20sin%20fondo.png",
+            "alt": "Mocha Blanco Frappuccino"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FWhite%20Mocha%20Frapp%20425x425%20sin%20fondo.png",
+            "alt": "Mocha Blanco Frappuccino"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FWhite%20Mocha%20Frapp%20425x425%20sin%20fondo.png",
+            "alt": "Mocha Blanco Frappuccino"
+        },
+        "section": "",
+        "seo": {
+            "title": "Chai Frappuccino®",
+            "description": "Chai Frappuccino®",
+            "keyword": "Chai Frappuccino®"
+        }
+    },
+    {
+        "id": "f14b00b0-05cc-4476-b030-30da2d60ea06",
+        "title": "Mocha Creme Frappuccino®",
+        "subtitle": "",
+        "body": "Frappuccino a base de crema. Perfecta combinación a base de crema y chocolate, batida con hielo, decorada con crema batida y salsa de chocolate.",
+        "url": "/producto/mocha-creme-frappuccinor",
+        "menu": {
+            "id": "651f49ab-a3cf-4c2a-880a-625e79e9fb5e",
+            "name": "Frappuccino® sin café",
+            "description": "",
+            "url": "/menu/bebidas/frappuccino/frappuccino-sin-cafe",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMocha%20Frapp%20425x425%20sin%20fondo.png",
+            "alt": "Mocha Frappuccino"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMocha%20Frapp%20425x425%20sin%20fondo.png",
+            "alt": "Mocha Frappuccino"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMocha%20Frapp%20425x425%20sin%20fondo.png",
+            "alt": "Mocha Frappuccino"
+        },
+        "section": "",
+        "seo": {
+            "title": "Mocha Creme Frappuccino®",
+            "description": "Mocha Creme Frappuccino®",
+            "keyword": "Mocha Creme Frappuccino®"
+        }
+    },
+    {
+        "id": "82e7d211-bea9-45f3-b52b-c34b0fcd93ab",
+        "title": "Café Frappuccino®",
+        "subtitle": "",
+        "body": "Frappuccino a base de café. Dulce y cremosa combinación de café, leche y hielo.",
+        "url": "/producto/cafe-frappuccinor",
+        "menu": {
+            "id": "73e3b972-cb1f-4b06-8ca4-45da55d615a6",
+            "name": "Frappuccino® con café",
+            "description": "",
+            "url": "/menu/bebidas/frappuccino/frappuccino-con-cafe",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCafe%20Frapp%20425x425%20sin%20fondo.png",
+            "alt": "Café Frappuccino"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCafe%20Frapp%20425x425%20sin%20fondo.png",
+            "alt": "Café Frappuccino"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCafe%20Frapp%20425x425%20sin%20fondo.png",
+            "alt": "Café Frappuccino"
+        },
+        "section": "",
+        "seo": {
+            "title": "Café Frappuccino®",
+            "description": "Café Frappuccino®",
+            "keyword": "Café Frappuccino®"
+        }
+    },
+    {
+        "id": "955950a8-12b6-480f-8fdb-b3fad4dc5fb3",
+        "title": "Caramel Frappuccino® ",
+        "subtitle": "",
+        "body": "Frappuccino a base de café. Dulce combinación de caramelo, café, leche y hielo, decorado con un remolino de crema batida y topping de caramelo.",
+        "url": "/producto/caramel-frappuccinor",
+        "menu": {
+            "id": "73e3b972-cb1f-4b06-8ca4-45da55d615a6",
+            "name": "Frappuccino® con café",
+            "description": "",
+            "url": "/menu/bebidas/frappuccino/frappuccino-con-cafe",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCaramel%20Frapp%20425x425%20sin%20fondo%20(1).png",
+            "alt": "Caramel Frappuccino"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCaramel%20Frapp%20425x425%20sin%20fondo%20(1).png",
+            "alt": "Caramel Frappuccino"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCaramel%20Frapp%20425x425%20sin%20fondo%20(1).png",
+            "alt": "Caramel Frappuccino"
+        },
+        "section": "",
+        "seo": {
+            "title": "Caramel Frappuccino® ",
+            "description": "Caramel Frappuccino® ",
+            "keyword": "Caramel Frappuccino® "
+        }
+    },
+    {
+        "id": "26a26bb6-059e-432a-9d99-4f086ce5ada4",
+        "title": "Mocha Blanco Frappuccino®",
+        "subtitle": "",
+        "body": "Frappuccino a base de café. Deliciosa mezcla que combina café, leche y chocolate blanco, batido con hielo, coronado con crema batida y salsa de mocha.",
+        "url": "/producto/mocha-blanco-frappuccinor",
+        "menu": {
+            "id": "73e3b972-cb1f-4b06-8ca4-45da55d615a6",
+            "name": "Frappuccino® con café",
+            "description": "",
+            "url": "/menu/bebidas/frappuccino/frappuccino-con-cafe",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FWhite%20Mocha%20Frapp%20425x425%20sin%20fondo.png",
+            "alt": "Mocha Blanco Frappuccino"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FWhite%20Mocha%20Frapp%20425x425%20sin%20fondo.png",
+            "alt": "Mocha Blanco Frappuccino"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FWhite%20Mocha%20Frapp%20425x425%20sin%20fondo.png",
+            "alt": "Mocha Blanco Frappuccino"
+        },
+        "section": "",
+        "seo": {
+            "title": "Mocha Blanco Frappuccino®",
+            "description": "Mocha Blanco Frappuccino®",
+            "keyword": "Mocha Blanco Frappuccino®"
+        }
+    },
+    {
+        "id": "9150bf3b-a9c4-4d1c-a01a-e0c7ddf5eccd",
+        "title": "Mocha Frappuccino®",
+        "subtitle": "",
+        "body": "Frappuccino a base de café. Deliciosa mezcla que combina café, leche y chocolate, batido con hielo, coronado con crema batida y salsa de mocha.",
+        "url": "/producto/mocha-frappuccinor",
+        "menu": {
+            "id": "73e3b972-cb1f-4b06-8ca4-45da55d615a6",
+            "name": "Frappuccino® con café",
+            "description": "",
+            "url": "/menu/bebidas/frappuccino/frappuccino-con-cafe",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMocha%20Frapp%20425x425%20sin%20fondo.png",
+            "alt": "Mocha Frappuccino"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMocha%20Frapp%20425x425%20sin%20fondo.png",
+            "alt": "Mocha Frappuccino"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMocha%20Frapp%20425x425%20sin%20fondo.png",
+            "alt": "Mocha Frappuccino"
+        },
+        "section": "",
+        "seo": {
+            "title": "Mocha Frappuccino®",
+            "description": "Mocha Frappuccino®",
+            "keyword": "Mocha Frappuccino®"
+        }
+    }
+]}

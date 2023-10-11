@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;700;900&family=Poppins:wght@100;400;700&display=swap" rel="stylesheet">
+    <title>Tu app de tareas</title>
+</head>
+<body>
+    <h1>¿Qué tenés que hacer hoy?</h1>
+    <button id="nuevaTarea">CREAR <br> TAREA</button>
+
+<!--PANTALLA 1: NO HAY TAREAS-->
+<div id="noHayTareas">
+    <h2>¡No tenés tareas pendientes!</h2>
+    <img src="img/celebremos.svg" alt="celebremos" class="imgPantalla1">
+    <h3>¡Celebremos!</h3>
+</div>
+
+<!--PANTALLA 2: COMPLETAR FORMULARIO-->
+<section id="formSection">
+    <label for="tarea">¿Qué tarea tenés que hacer?</label>
+    <input type="text" id="tarea" placeholder="Escribí el nombre de la tarea">
+    <!--aca va el dropdown de imagenes-->
+    <button id="btnImagen">Elegí un icono</button>
+    <ul id="listaImg" class="d-none">
+        <li><img src="img/usuario.png" alt="Personal" class="img"></li>
+        <li><img src="img/ejercicio.png" alt="Deporte" class="img"></li>
+        <li><img src="img/finanzas.png" alt="Finanzas" class="img"></li>
+        <li><img src="img/libro.png" alt="Estudio" class="img"></li>
+        <li><img src="img/trabajo.png" alt="Trabajo" class="img"></li>
+        <li><img src="img/tienda.png" alt="Comprar" class="img"></li>
+    </ul>
+    <label for="opcionesDias">¿En cuántos días la tenés que hacer?</label>
+    <select id="opcionesDias" placeholder="Elegí en cuánto tiempo">
+        <option value="1">1 día</option>
+        <option value="2">2 días</option>
+        <option value="3">3 días</option>
+        <option value="4">4 días</option>
+        <option value="5">5 días</option>
+        <option value="6">6 días</option>
+        <option value="7">7 días</option>
+        <option value="10">10 días</option>
+        <option value="15">15 días</option>
+        <option value="20">20 días</option>
+        <option value="25">25 días</option>
+        <option value="30">30 días</option>
+    </select>
+    <button id="btnAgregar">AGREGAR TAREA</button>
+</section>
+
+
+<!--PANTALLA 3: LISTA DE TAREAS-->
+<section id="sectionPantalla3">
+    <!--<div class="divTareas urgente">
+        <img src="" alt="">
+        <h3>Nombre de la tarea</h3>
+        <p class="vencimiento">VENCE EN</p>
+        <button class="btnHecho">¡TAREA HECHA!</button>
+    </div>
+
+    <div class="divTareas medioUrgente">
+        <h3>Nombre de la tarea</h3>
+        <p class="vencimiento">VENCE EN</p>
+        <button class="btnHecho">¡TAREA HECHA!</button>
+    </div>
+
+    <div class="divTareas tranqui">
+        <h3>Nombre de la tarea</h3>
+        <p class="vencimiento">VENCE EN</p>
+        <button class="btnHecho">¡TAREA HECHA!</button>
+    </div>
+
+    <div class="divTareas tranqui">
+        <h3>Nombre de la tarea</h3>
+        <p class="vencimiento">VENCE EN</p>
+        <button class="btnHecho">¡TAREA HECHA!</button>
+    </div>
+
+    <div class="divTareas urgente">
+        <h3>Nombre de la tarea</h3>
+        <p class="vencimiento">VENCE EN</p>
+        <button class="btnHecho">¡TAREA HECHA!</button>
+    </div>
+
+    <div class="divTareas medioUrgente">
+        <h3>Nombre de la tarea</h3>
+        <p class="vencimiento">VENCE EN</p>
+        <button class="btnHecho">¡TAREA HECHA!</button>
+    </div>-->
+
+</section>
+
+
+<script src="main.js"></script>
+</body>
+</html>

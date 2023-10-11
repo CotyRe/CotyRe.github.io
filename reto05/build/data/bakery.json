@@ -1,0 +1,1258 @@
+{
+    "products":[
+        {
+        "id": "a9a8817d-8ef2-4acf-b489-5ca19f0bdc40",
+        "title": "Cheesecake Frutos Rojos",
+        "subtitle": "",
+        "body": "Cheesecake con cobertura de salsa de frutos rojos.",
+        "url": "/producto/cheesecake-frutos-rojos",
+        "menu": {
+            "id": "a09942ee-41dd-4b4a-a66d-45dac7e3e247",
+            "name": "Tortas",
+            "description": "",
+            "url": "/menu/comida/bakery/cookies-cake",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCheesecake-FR-425x425.png",
+            "alt": "Cheesecake Frutos Rojos"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCheesecake-FR-425x425.png",
+            "alt": "Cheesecake Frutos Rojos"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCheesecake-FR-425x425.png",
+            "alt": "Cheesecake Frutos Rojos"
+        },
+        "section": "",
+        "seo": {
+            "title": "Cheesecake Frutos Rojos",
+            "description": "Cheesecake Frutos Rojos",
+            "keyword": "Cheesecake Frutos Rojos"
+        }
+    },
+    {
+        "id": "2b2145ca-a618-41c7-8479-0f4757ca990b",
+        "title": "Cookies Cake",
+        "subtitle": "",
+        "body": "Torta de chocolate cubierta con crema de cookies de chocolate.",
+        "url": "/producto/cookies-cake",
+        "menu": {
+            "id": "a09942ee-41dd-4b4a-a66d-45dac7e3e247",
+            "name": "Tortas",
+            "description": "",
+            "url": "/menu/comida/bakery/cookies-cake",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCookies-Cake-425x425.png",
+            "alt": "Cookies Cake"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCookies-Cake-425x425.png",
+            "alt": "Cookies Cake"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCookies-Cake-425x425.png",
+            "alt": "Cookies Cake"
+        },
+        "section": "",
+        "seo": {
+            "title": "Cookies Cake",
+            "description": "Cookies Cake",
+            "keyword": "Cookies Cake"
+        }
+    },
+    {
+        "id": "8c93aede-a4b2-4666-83df-00c8e88b5e35",
+        "title": "Key Lime Pie",
+        "subtitle": "",
+        "body": "Base de masa brisse, relleno de mousse de lima, decorada con crema y lima.",
+        "url": "/producto/key-lime-pie",
+        "menu": {
+            "id": "a09942ee-41dd-4b4a-a66d-45dac7e3e247",
+            "name": "Tortas",
+            "description": "",
+            "url": "/menu/comida/bakery/cookies-cake",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FKey-Lime-425x425.png",
+            "alt": "Key Lime Pie"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FKey-Lime-425x425.png",
+            "alt": "Key Lime Pie"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FKey-Lime-425x425.png",
+            "alt": "Key Lime Pie"
+        },
+        "section": "",
+        "seo": {
+            "title": "Key Lime Pie",
+            "description": "Key Lime Pie",
+            "keyword": "Key Lime Pie"
+        }
+    },
+    {
+        "id": "82e65580-4879-48b1-aec8-46b2c23f6b87",
+        "title": "Apple Crumble",
+        "subtitle": "",
+        "body": "Masa de vainilla con relleno de manzanas verdes, cubierto por una exquisita cobertura crocante.",
+        "url": "/producto/apple-crumble",
+        "menu": {
+            "id": "a09942ee-41dd-4b4a-a66d-45dac7e3e247",
+            "name": "Tortas",
+            "description": "",
+            "url": "/menu/comida/bakery/cookies-cake",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FApple-Crumble-425x425.png",
+            "alt": "Apple Crumble"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FApple-Crumble-425x425.png",
+            "alt": "Apple Crumble"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FApple-Crumble-425x425.png",
+            "alt": "Apple Crumble"
+        },
+        "section": "",
+        "seo": {
+            "title": "Apple Crumble",
+            "description": "Apple Crumble",
+            "keyword": "Apple Crumble"
+        }
+    },
+    {
+        "id": "e56ce8c5-5312-464c-b100-8e3c1f3b6fa8",
+        "title": "Croissant Relleno con Crema de Avellanas",
+        "subtitle": "",
+        "body": "Croissant con masa de hojaldre y cubierto con una salsa de cacao y avellanas.",
+        "url": "/producto/croissant-relleno-con-crema-de-avellanas",
+        "menu": {
+            "id": "68e1e56a-6414-45eb-a659-5d0ff799be10",
+            "name": "Recién horneados",
+            "description": "",
+            "url": "/menu/comida/bakery/recien-horneados",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCroissant-Relleno-Avellana-425-x-425.png",
+            "alt": "Croissant Relleno con Crema de Avellanas"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCroissant-Relleno-Avellana-425-x-425.png",
+            "alt": "Croissant Relleno con Crema de Avellanas"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCroissant-Relleno-Avellana-425-x-425.png",
+            "alt": "Croissant Relleno con Crema de Avellanas"
+        },
+        "section": "",
+        "seo": {
+            "title": "Croissant Relleno con Crema de Avellanas",
+            "description": "Croissant Relleno con Crema de Avellanas",
+            "keyword": "Croissant Relleno con Crema de Avellanas"
+        }
+    },
+    {
+        "id": "ce0212b1-1eea-49a5-aa9b-68749e4ac4be",
+        "title": "Croissant",
+        "subtitle": "",
+        "body": "Elaborado con masa de hojaldre crujiente y salada, nuestro Croissant se hornea especialmente para vos.",
+        "url": "/producto/croissant",
+        "menu": {
+            "id": "68e1e56a-6414-45eb-a659-5d0ff799be10",
+            "name": "Recién horneados",
+            "description": "",
+            "url": "/menu/comida/bakery/recien-horneados",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCroissant-425-x-425.png",
+            "alt": "Croissant"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCroissant-425-x-425.png",
+            "alt": "Croissant"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCroissant-425-x-425.png",
+            "alt": "Croissant"
+        },
+        "section": "",
+        "seo": {
+            "title": "Croissant",
+            "description": "Croissant",
+            "keyword": "Croissant"
+        }
+    },
+    {
+        "id": "4eb21ea7-b9db-4940-a185-033809594018",
+        "title": "Chocolate Croissant",
+        "subtitle": "",
+        "body": "Exquisita masa de hojaldre rellena de chocolate semiamargo y horneado especialmente para vos.",
+        "url": "/producto/chocolate-croissant",
+        "menu": {
+            "id": "68e1e56a-6414-45eb-a659-5d0ff799be10",
+            "name": "Recién horneados",
+            "description": "",
+            "url": "/menu/comida/bakery/recien-horneados",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FChocolate-Croissant-425-x-425.png",
+            "alt": "Chocolate Croissant"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FChocolate-Croissant-425-x-425.png",
+            "alt": "Chocolate Croissant"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FChocolate-Croissant-425-x-425.png",
+            "alt": "Chocolate Croissant"
+        },
+        "section": "",
+        "seo": {
+            "title": "Chocolate Croissant",
+            "description": "Chocolate Croissant",
+            "keyword": "Chocolate Croissant"
+        }
+    },
+    {
+        "id": "18c69d57-0167-40be-bb9d-3596ba95d550",
+        "title": "Mezzaluna",
+        "subtitle": "",
+        "body": "La clásica medialuna reversionada a la manera de Starbucks: Crujiente, esponjosa, de mayor tamaño y ¡recién horneada!",
+        "url": "/producto/mezzaluna",
+        "menu": {
+            "id": "68e1e56a-6414-45eb-a659-5d0ff799be10",
+            "name": "Recién horneados",
+            "description": "",
+            "url": "/menu/comida/bakery/recien-horneados",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMezzaluna-425-x-425_0.png",
+            "alt": "Mezzaluna"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMezzaluna-425-x-425_0.png",
+            "alt": "Mezzaluna"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMezzaluna-425-x-425_0.png",
+            "alt": "Mezzaluna"
+        },
+        "section": "",
+        "seo": {
+            "title": "Mezzaluna",
+            "description": "Mezzaluna",
+            "keyword": "Mezzaluna"
+        }
+    },
+    {
+        "id": "791162f6-41a4-40f2-9119-8d21e813c3ab",
+        "title": "Mezzaluna rellena con jamón y queso",
+        "subtitle": "",
+        "body": "Nuestra Mezzaluna recién horneada, rellena con queso tybo y jamón cocido.",
+        "url": "/producto/mezzaluna-rellena-con-jamon-y-queso",
+        "menu": {
+            "id": "68e1e56a-6414-45eb-a659-5d0ff799be10",
+            "name": "Recién horneados",
+            "description": "",
+            "url": "/menu/comida/bakery/recien-horneados",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMezzaluna-rellena-425-x-425_0.png",
+            "alt": "Mezzaluna rellena con jamón y queso"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMezzaluna-rellena-425-x-425_0.png",
+            "alt": "Mezzaluna rellena con jamón y queso"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMezzaluna-rellena-425-x-425_0.png",
+            "alt": "Mezzaluna rellena con jamón y queso"
+        },
+        "section": "",
+        "seo": {
+            "title": "Mezzaluna rellena con jamón y queso",
+            "description": "Mezzaluna rellena con jamón y queso",
+            "keyword": "Mezzaluna rellena con jamón y queso"
+        }
+    },
+    {
+        "id": "8100e016-b127-44d2-b641-4c47c6457c09",
+        "title": "Trenzado de Ricota y Cítricos",
+        "subtitle": "",
+        "body": "Una delicioso trenzado de masa hojaldrada relleno con ricota y cítricos.",
+        "url": "/producto/trenzado-de-ricota-y-citricos",
+        "menu": {
+            "id": "64e684c7-909a-4d66-89a7-3ee5c1d0f3fa",
+            "name": "Croissants, Rolls & más",
+            "description": "",
+            "url": "/menu/comida/bakery/croissants-rolls-donut-brownie",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTrenzado-Ricota-y-Citrico-425-x-425.png",
+            "alt": "Trenzado de Ricota y Cítricos"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTrenzado-Ricota-y-Citrico-425-x-425.png",
+            "alt": "Trenzado de Ricota y Cítricos"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTrenzado-Ricota-y-Citrico-425-x-425.png",
+            "alt": "Trenzado de Ricota y Cítricos"
+        },
+        "section": "",
+        "seo": {
+            "title": "Trenzado de Ricota y Cítricos",
+            "description": "Trenzado de Ricota y Cítricos",
+            "keyword": "Trenzado de Ricota y Cítricos"
+        }
+    },
+    {
+        "id": "95f6325c-27fc-45de-b71a-287803489b18",
+        "title": "Cheese Avocado Scon",
+        "subtitle": "",
+        "body": "Nuestro clásico scon de queso con queso crema y avocado.",
+        "url": "/producto/cheese-avocado-scon",
+        "menu": {
+            "id": "e9301b01-3682-4517-b9f8-ba59adfa95cd",
+            "name": "Salados",
+            "description": "",
+            "url": "/menu/comida/bakery/salados",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCheese-Avocado-Toast-425-x-425.png",
+            "alt": "Cheese Avocado Scon"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCheese-Avocado-Toast-425-x-425.png",
+            "alt": "Cheese Avocado Scon"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCheese-Avocado-Toast-425-x-425.png",
+            "alt": "Cheese Avocado Scon"
+        },
+        "section": "",
+        "seo": {
+            "title": "Cheese Avocado Scon",
+            "description": "Cheese Avocado Scon",
+            "keyword": "Cheese Avocado Scon"
+        }
+    },
+    {
+        "id": "a10bee44-eb58-47d4-a1cb-a2b1cd767612",
+        "title": "Bagel Avocado Toast",
+        "subtitle": "",
+        "body": "Nuestro clásico Bagel Multicereal con queso crema y avocado.",
+        "url": "/producto/bagel-avocado-toast",
+        "menu": {
+            "id": "e9301b01-3682-4517-b9f8-ba59adfa95cd",
+            "name": "Salados",
+            "description": "",
+            "url": "/menu/comida/bakery/salados",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBagel-Avocado-Toast-425-x-425.png",
+            "alt": "Bagel Avocado Toast"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBagel-Avocado-Toast-425-x-425.png",
+            "alt": "Bagel Avocado Toast"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBagel-Avocado-Toast-425-x-425.png",
+            "alt": "Bagel Avocado Toast"
+        },
+        "section": "",
+        "seo": {
+            "title": "Bagel Avocado Toast",
+            "description": "Bagel Avocado Toast",
+            "keyword": "Bagel Avocado Toast"
+        }
+    },
+    {
+        "id": "e9b06222-d6da-48fe-8a06-fd655575816d",
+        "title": "Avocado Toast",
+        "subtitle": "",
+        "body": "Tostada en pan artesanal con queso crema y avocado.",
+        "url": "/producto/avocado-toast",
+        "menu": {
+            "id": "e9301b01-3682-4517-b9f8-ba59adfa95cd",
+            "name": "Salados",
+            "description": "",
+            "url": "/menu/comida/bakery/salados",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FAvocado-Toast-425-x-425.png",
+            "alt": "Avocado Toast"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FAvocado-Toast-425-x-425.png",
+            "alt": "Avocado Toast"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FAvocado-Toast-425-x-425.png",
+            "alt": "Avocado Toast"
+        },
+        "section": "",
+        "seo": {
+            "title": "Avocado Toast",
+            "description": "Avocado Toast",
+            "keyword": "Avocado Toast"
+        }
+    },
+    {
+        "id": "d88a08a4-fb2c-4511-a602-e648d3509517",
+        "title": "Tostada Artesanal ",
+        "subtitle": "",
+        "body": "Pan de campo tostado, con queso crema y mermelada de frutos rojos para untar.",
+        "url": "/producto/tostada-artesanal",
+        "menu": {
+            "id": "e9301b01-3682-4517-b9f8-ba59adfa95cd",
+            "name": "Salados",
+            "description": "",
+            "url": "/menu/comida/bakery/salados",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTostada-Artesanal-425-x-425.png",
+            "alt": "Tostada Artesanal"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTostada-Artesanal-425-x-425.png",
+            "alt": "Tostada Artesanal"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTostada-Artesanal-425-x-425.png",
+            "alt": "Tostada Artesanal"
+        },
+        "section": "",
+        "seo": {
+            "title": "Tostada Artesanal",
+            "description": "Tostada Artesanal",
+            "keyword": "Tostada Artesanal"
+        }
+    },
+    {
+        "id": "c177c69e-b95b-448a-a7f4-525504c7b203",
+        "title": "Croissant Relleno con Crema de Avellanas",
+        "subtitle": "",
+        "body": "Croissant con masa de hojaldre y cubierto con una salsa de cacao y avellanas.",
+        "url": "/producto/croissant-relleno-con-crema-de-avellanas",
+        "menu": {
+            "id": "64e684c7-909a-4d66-89a7-3ee5c1d0f3fa",
+            "name": "Croissants, Rolls & más",
+            "description": "",
+            "url": "/menu/comida/bakery/croissants-rolls-donut-brownie",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCroissant-Relleno-Avellana-425-x-425.png",
+            "alt": "Croissant Relleno con Crema de Avellanas"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCroissant-Relleno-Avellana-425-x-425.png",
+            "alt": "Croissant Relleno con Crema de Avellanas"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCroissant-Relleno-Avellana-425-x-425.png",
+            "alt": "Croissant Relleno con Crema de Avellanas"
+        },
+        "section": "",
+        "seo": {
+            "title": "Croissant Relleno con Crema de Avellanas",
+            "description": "Croissant Relleno con Crema de Avellanas",
+            "keyword": "Croissant Relleno con Crema de Avellanas"
+        }
+    },
+    {
+        "id": "34d71a54-3659-42f4-bee4-649848ef6fef",
+        "title": "Croissant",
+        "subtitle": "",
+        "body": "Croissant con masa de hojaldre.",
+        "url": "/producto/croissant",
+        "menu": {
+            "id": "64e684c7-909a-4d66-89a7-3ee5c1d0f3fa",
+            "name": "Croissants, Rolls & más",
+            "description": "",
+            "url": "/menu/comida/bakery/croissants-rolls-donut-brownie",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCroissant-425-x-425.png",
+            "alt": "Croissant"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCroissant-425-x-425.png",
+            "alt": "Croissant"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCroissant-425-x-425.png",
+            "alt": "Croissant"
+        },
+        "section": "",
+        "seo": {
+            "title": "Croissant",
+            "description": "Croissant",
+            "keyword": "Croissant"
+        }
+    },
+    {
+        "id": "0d4e4360-5d09-4f96-9c50-1a258cd0b347",
+        "title": "Scon 4 quesos",
+        "subtitle": "",
+        "body": "Queso pategrás, sardo, reggiano y holanda se combinan en una esponjosa masa tibia.",
+        "url": "/producto/scon-4-quesos",
+        "menu": {
+            "id": "e9301b01-3682-4517-b9f8-ba59adfa95cd",
+            "name": "Salados",
+            "description": "",
+            "url": "/menu/comida/bakery/salados",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FScon-4-quesos-425-x-425.png",
+            "alt": "Scon 4 quesos"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FScon-4-quesos-425-x-425.png",
+            "alt": "Scon 4 quesos"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FScon-4-quesos-425-x-425.png",
+            "alt": "Scon 4 quesos"
+        },
+        "section": "",
+        "seo": {
+            "title": "Scon 4 quesos",
+            "description": "Scon 4 quesos",
+            "keyword": "Scon 4 quesos"
+        }
+    },
+    {
+        "id": "73817840-b919-431f-bdf0-576cfb741cf2",
+        "title": "Muffin de Arándanos",
+        "subtitle": "",
+        "body": "Suave, dulce y esponjoso Muffin con arándanos y notas cítricas, con una cubierta de crumble.",
+        "url": "/producto/muffin-de-arandanos",
+        "menu": {
+            "id": "e05a639b-dc35-44f6-8d1d-a2419a239b75",
+            "name": "Muffins",
+            "description": "",
+            "url": "/menu/comida/bakery/muffins",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMuffin-Arandanos-425-x-425.png",
+            "alt": "Muffin de Arándanos"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMuffin-Arandanos-425-x-425.png",
+            "alt": "Muffin de Arándanos"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMuffin-Arandanos-425-x-425.png",
+            "alt": "Muffin de Arándanos"
+        },
+        "section": "",
+        "seo": {
+            "title": "Muffin de Arándanos",
+            "description": "Muffin de Arándanos",
+            "keyword": "Muffin de Arándanos"
+        }
+    },
+    {
+        "id": "9a928f42-8910-4f67-9f42-d46ffbfeb770",
+        "title": "Mezzaluna rellena con jamón y queso",
+        "subtitle": "",
+        "body": "Nuestra Mezzaluna rellena con queso tybo y jamón cocido.",
+        "url": "/producto/mezzaluna-rellena-con-jamon-y-queso",
+        "menu": {
+            "id": "64e684c7-909a-4d66-89a7-3ee5c1d0f3fa",
+            "name": "Croissants, Rolls & más",
+            "description": "",
+            "url": "/menu/comida/bakery/croissants-rolls-donut-brownie",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMezzaluna-rellena-425-x-425.png",
+            "alt": "Mezzaluna rellena con jamón y queso"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMezzaluna-rellena-425-x-425.png",
+            "alt": "Mezzaluna rellena con jamón y queso"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMezzaluna-rellena-425-x-425.png",
+            "alt": "Mezzaluna rellena con jamón y queso"
+        },
+        "section": "",
+        "seo": {
+            "title": "Mezzaluna rellena con jamón y queso",
+            "description": "Mezzaluna rellena con jamón y queso",
+            "keyword": "Mezzaluna rellena con jamón y queso"
+        }
+    },
+    {
+        "id": "aa8f8bfb-40f7-4844-b835-85ea03e4239a",
+        "title": "Bagel Multicereal",
+        "subtitle": "",
+        "body": "Pan tostado con variedad de semillas y cereales, acompañado con queso crema y mermelada de frutos rojos para untar.",
+        "url": "/producto/bagel-multicereal",
+        "menu": {
+            "id": "e9301b01-3682-4517-b9f8-ba59adfa95cd",
+            "name": "Salados",
+            "description": "",
+            "url": "/menu/comida/bakery/salados",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBagel-Multicereal-425-x-425.png",
+            "alt": "Bagel Multicereal"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBagel-Multicereal-425-x-425.png",
+            "alt": "Bagel Multicereal"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBagel-Multicereal-425-x-425.png",
+            "alt": "Bagel Multicereal"
+        },
+        "section": "",
+        "seo": {
+            "title": "Bagel Multicereal",
+            "description": "Bagel Multicereal",
+            "keyword": "Bagel Multicereal"
+        }
+    },
+    {
+        "id": "669c13e2-f46d-4902-9ac7-7024c920a5e7",
+        "title": "Muffin de dulce de leche",
+        "subtitle": "",
+        "body": "Exquisito muffin de vainilla con un corazón de dulce de leche.",
+        "url": "/producto/muffin-de-dulce-de-leche",
+        "menu": {
+            "id": "e05a639b-dc35-44f6-8d1d-a2419a239b75",
+            "name": "Muffins",
+            "description": "",
+            "url": "/menu/comida/bakery/muffins",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMuffin-Ddl-425-x-425.png",
+            "alt": "Muffin de dulce de leche"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMuffin-Ddl-425-x-425.png",
+            "alt": "Muffin de dulce de leche"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMuffin-Ddl-425-x-425.png",
+            "alt": "Muffin de dulce de leche"
+        },
+        "section": "",
+        "seo": {
+            "title": "Muffin de dulce de leche",
+            "description": "Muffin de dulce de leche",
+            "keyword": "Muffin de dulce de leche"
+        }
+    },
+    {
+        "id": "2385c092-c4a6-43a6-b777-8682e2d1d5b3",
+        "title": "Double Choco Brownie",
+        "subtitle": "",
+        "body": "Brownie húmedo de chocolate.",
+        "url": "/producto/double-choco-brownie",
+        "menu": {
+            "id": "64e684c7-909a-4d66-89a7-3ee5c1d0f3fa",
+            "name": "Croissants, Rolls & más",
+            "description": "",
+            "url": "/menu/comida/bakery/croissants-rolls-donut-brownie",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FDouble-Choco-Brownie-425-x-425.png",
+            "alt": "Double Choco Brownie"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FDouble-Choco-Brownie-425-x-425.png",
+            "alt": "Double Choco Brownie"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FDouble-Choco-Brownie-425-x-425.png",
+            "alt": "Double Choco Brownie"
+        },
+        "section": "",
+        "seo": {
+            "title": "Double Choco Brownie",
+            "description": "Double Choco Brownie",
+            "keyword": "Double Choco Brownie"
+        }
+    },
+    {
+        "id": "86e33a08-89ef-4ac6-b173-3720b44b60c6",
+        "title": "Roll de manzana",
+        "subtitle": "",
+        "body": "Anillo de suave masa horneada relleno con manzana.",
+        "url": "/producto/roll-de-manzana",
+        "menu": {
+            "id": "64e684c7-909a-4d66-89a7-3ee5c1d0f3fa",
+            "name": "Croissants, Rolls & más",
+            "description": "",
+            "url": "/menu/comida/bakery/croissants-rolls-donut-brownie",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FRoll-de-Manzana-425-x-425.png",
+            "alt": "Roll de manzana"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FRoll-de-Manzana-425-x-425.png",
+            "alt": "Roll de manzana"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FRoll-de-Manzana-425-x-425.png",
+            "alt": "Roll de manzana"
+        },
+        "section": "",
+        "seo": {
+            "title": "Roll de manzana",
+            "description": "Roll de manzana",
+            "keyword": "Roll de manzana"
+        }
+    },
+    {
+        "id": "032d93e4-d285-4ee6-bee8-7b489ff64c50",
+        "title": "Muffin de Chocolate",
+        "subtitle": "",
+        "body": "Suave masa de chocolate con chips de chocolate en su interior.",
+        "url": "/producto/muffin-de-chocolate",
+        "menu": {
+            "id": "e05a639b-dc35-44f6-8d1d-a2419a239b75",
+            "name": "Muffins",
+            "description": "",
+            "url": "/menu/comida/bakery/muffins",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMuffin-Chocolate-425-x-425.png",
+            "alt": "Muffin de Chocolate"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMuffin-Chocolate-425-x-425.png",
+            "alt": "Muffin de Chocolate"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMuffin-Chocolate-425-x-425.png",
+            "alt": "Muffin de Chocolate"
+        },
+        "section": "",
+        "seo": {
+            "title": "Muffin de Chocolate",
+            "description": "Muffin de Chocolate",
+            "keyword": "Muffin de Chocolate"
+        }
+    },
+    {
+        "id": "88a18701-e253-4e86-b03f-e76b688607ab",
+        "title": "Banana Loaf Cake",
+        "subtitle": "",
+        "body": "Cake Húmedo de banana combinado con chispas de chocolate.",
+        "url": "/producto/banana-loaf-cake",
+        "menu": {
+            "id": "e335a90f-fad7-4d4d-86b4-5152dc67c644",
+            "name": "Budines",
+            "description": "",
+            "url": "/menu/comida/bakery/budines",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBanana-Loaf-Cake-425-x-425.png",
+            "alt": "Banana Loaf Cake"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBanana-Loaf-Cake-425-x-425.png",
+            "alt": "Banana Loaf Cake"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBanana-Loaf-Cake-425-x-425.png",
+            "alt": "Banana Loaf Cake"
+        },
+        "section": "",
+        "seo": {
+            "title": "Banana Loaf Cake",
+            "description": "Banana Loaf Cake",
+            "keyword": "Banana Loaf Cake"
+        }
+    },
+    {
+        "id": "2fde74c8-d7d1-40ec-b2b7-bc2faaa565c8",
+        "title": "Muffin Choco Chips",
+        "subtitle": "",
+        "body": "Esponjoso y húmedo muffin de vainilla con chips de chocolate.",
+        "url": "/producto/muffin-choco-chips",
+        "menu": {
+            "id": "e05a639b-dc35-44f6-8d1d-a2419a239b75",
+            "name": "Muffins",
+            "description": "",
+            "url": "/menu/comida/bakery/muffins",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMuffin-Choc-Chips-425-x-425.png",
+            "alt": "Muffin Choco Chips"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMuffin-Choc-Chips-425-x-425.png",
+            "alt": "Muffin Choco Chips"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMuffin-Choc-Chips-425-x-425.png",
+            "alt": "Muffin Choco Chips"
+        },
+        "section": "",
+        "seo": {
+            "title": "Muffin Choco Chips",
+            "description": "Muffin Choco Chips",
+            "keyword": "Muffin Choco Chips"
+        }
+    },
+    {
+        "id": "88b5eac4-e3ed-4eab-9dab-f6896aa7c93f",
+        "title": "Roll de canela",
+        "subtitle": "",
+        "body": "Anillo de suave masa horneada relleno con canela.",
+        "url": "/producto/roll-de-canela",
+        "menu": {
+            "id": "64e684c7-909a-4d66-89a7-3ee5c1d0f3fa",
+            "name": "Croissants, Rolls & más",
+            "description": "",
+            "url": "/menu/comida/bakery/croissants-rolls-donut-brownie",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FRoll-de-Canela-425-x-425.png",
+            "alt": "Roll de canela"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FRoll-de-Canela-425-x-425.png",
+            "alt": "Roll de canela"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FRoll-de-Canela-425-x-425.png",
+            "alt": "Roll de canela"
+        },
+        "section": "",
+        "seo": {
+            "title": "Roll de canela",
+            "description": "Roll de canela",
+            "keyword": "Roll de canela"
+        }
+    },
+    {
+        "id": "3e1a265f-f09e-49e4-9982-d38a5f0851ea",
+        "title": "Pan de Queso",
+        "subtitle": "",
+        "body": "Nuestro tradicional pan de queso.",
+        "url": "/producto/pan-de-queso",
+        "menu": {
+            "id": "e9301b01-3682-4517-b9f8-ba59adfa95cd",
+            "name": "Salados",
+            "description": "",
+            "url": "/menu/comida/bakery/salados",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FPan-de-Queso-425-x-425.png",
+            "alt": "Pan de Queso"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FPan-de-Queso-425-x-425.png",
+            "alt": "Pan de Queso"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FPan-de-Queso-425-x-425.png",
+            "alt": "Pan de Queso"
+        },
+        "section": "",
+        "seo": {
+            "title": "Pan de Queso",
+            "description": "Pan de Queso",
+            "keyword": "Pan de Queso"
+        }
+    },
+    {
+        "id": "b5f5bed0-646a-4d4d-943f-2578bbaee9d9",
+        "title": "Marble Loaf Cake",
+        "subtitle": "",
+        "body": "Esponjoso cake que combina sabores de vainilla e intenso chocolate.",
+        "url": "/producto/marble-loaf-cake",
+        "menu": {
+            "id": "e335a90f-fad7-4d4d-86b4-5152dc67c644",
+            "name": "Budines",
+            "description": "",
+            "url": "/menu/comida/bakery/budines",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMarble-Loaf-Cake-425-x-425.png",
+            "alt": "Marble Loaf Cake"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMarble-Loaf-Cake-425-x-425.png",
+            "alt": "Marble Loaf Cake"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMarble-Loaf-Cake-425-x-425.png",
+            "alt": "Marble Loaf Cake"
+        },
+        "section": "",
+        "seo": {
+            "title": "Marble Loaf Cake",
+            "description": "Marble Loaf Cake",
+            "keyword": "Marble Loaf Cake"
+        }
+    },
+    {
+        "id": "f1f6e4cc-d109-4634-a9fd-bf9b489b83ec",
+        "title": "Donut rellena de Dulce de leche",
+        "subtitle": "",
+        "body": "Donut rellena con dulce de leche y glaseada.",
+        "url": "/producto/donut-rellena-de-dulce-de-leche",
+        "menu": {
+            "id": "64e684c7-909a-4d66-89a7-3ee5c1d0f3fa",
+            "name": "Croissants, Rolls & más",
+            "description": "",
+            "url": "/menu/comida/bakery/croissants-rolls-donut-brownie",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FDonut-Rellena-425-x-425.png",
+            "alt": "Donut rellena de Dulce de leche"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FDonut-Rellena-425-x-425.png",
+            "alt": "Donut rellena de Dulce de leche"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FDonut-Rellena-425-x-425.png",
+            "alt": "Donut rellena de Dulce de leche"
+        },
+        "section": "",
+        "seo": {
+            "title": "Donut rellena de Dulce de leche",
+            "description": "Donut rellena de Dulce de leche",
+            "keyword": "Donut rellena de Dulce de leche"
+        }
+    },
+    {
+        "id": "ae217edc-b932-4f14-ba4e-95c09c6896c4",
+        "title": "Chocolate Croissant",
+        "subtitle": "",
+        "body": "Exquisita masa de hojaldre rellena de chocolate semiamargo.",
+        "url": "/producto/chocolate-croissant",
+        "menu": {
+            "id": "64e684c7-909a-4d66-89a7-3ee5c1d0f3fa",
+            "name": "Croissants, Rolls & más",
+            "description": "",
+            "url": "/menu/comida/bakery/croissants-rolls-donut-brownie",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FChocolate-Croissant-425-x-425.png",
+            "alt": "Chocolate Croissant"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FChocolate-Croissant-425-x-425.png",
+            "alt": "Chocolate Croissant"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FChocolate-Croissant-425-x-425.png",
+            "alt": "Chocolate Croissant"
+        },
+        "section": "",
+        "seo": {
+            "title": "Chocolate Croissant",
+            "description": "Chocolate Croissant",
+            "keyword": "Chocolate Croissant"
+        }
+    },
+    {
+        "id": "9aaadcf4-0715-4ea2-b374-45cd7c0b3eae",
+        "title": "Lemon Pound Cake",
+        "subtitle": "",
+        "body": "Exquisito cake de limon, bañado con un glaseado dulce y cítrico.",
+        "url": "/producto/lemon-pound-cake",
+        "menu": {
+            "id": "e335a90f-fad7-4d4d-86b4-5152dc67c644",
+            "name": "Budines",
+            "description": "",
+            "url": "/menu/comida/bakery/budines",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FLemon-Pound-Cake-425-x-425.png",
+            "alt": "Lemon Pound Cake"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FLemon-Pound-Cake-425-x-425.png",
+            "alt": "Lemon Pound Cake"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FLemon-Pound-Cake-425-x-425.png",
+            "alt": "Lemon Pound Cake"
+        },
+        "section": "",
+        "seo": {
+            "title": "Lemon Pound Cake",
+            "description": "Lemon Pound Cake",
+            "keyword": "Lemon Pound Cake"
+        }
+    },
+    {
+        "id": "e9ebb0c7-be1a-4d6c-8ab9-101a0f8b48eb",
+        "title": "Mezzaluna",
+        "subtitle": "",
+        "body": "La clásica medialuna reversionada a la manera de Starbucks: Crujiente, esponjosa y de mayor tamaño.",
+        "url": "/producto/mezzaluna",
+        "menu": {
+            "id": "64e684c7-909a-4d66-89a7-3ee5c1d0f3fa",
+            "name": "Croissants, Rolls & más",
+            "description": "",
+            "url": "/menu/comida/bakery/croissants-rolls-donut-brownie",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMezzaluna-425-x-425.png",
+            "alt": "Mezzaluna"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMezzaluna-425-x-425.png",
+            "alt": "Mezzaluna"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMezzaluna-425-x-425.png",
+            "alt": "Mezzaluna"
+        },
+        "section": "",
+        "seo": {
+            "title": "Mezzaluna",
+            "description": "Mezzaluna",
+            "keyword": "Mezzaluna"
+        }
+    }
+    ]
+}

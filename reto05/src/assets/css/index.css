@@ -1,0 +1,9 @@
+body{
+    font-family: SoDo Sans,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    font-feature-settings: "calt";
+    font-size: 1rem;
+    line-height: 1.5;
+    letter-spacing: -.01em;
+}

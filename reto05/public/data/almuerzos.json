@@ -1,0 +1,344 @@
+{"products":[
+    {
+        "id": "6ad591bf-58d7-49dc-9607-515f82ba8000",
+        "title": "Sándwich con Jamón y Queso en Pan Artesanal",
+        "subtitle": "Gluten Free",
+        "body": "Con un suave y aireado pan artesanal relleno de jamón y queso, este sándwich es una deliciosa opción gluten free.",
+        "url": "/producto/sandwich-con-jamon-y-queso-en-pan-artesanal",
+        "menu": {
+            "id": "65ef38ca-4acd-420a-9d2a-5f17dea445ba",
+            "name": "Sándwichs & más",
+            "description": "",
+            "url": "/menu/comida/almuerzos/sandwichs",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSand-JyQ-Gluten-Free-425-x-425.png",
+            "alt": "Sándwich con Jamón y Queso en Pan Artesanal - Gluten Free"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSand-JyQ-Gluten-Free-425-x-425.png",
+            "alt": "Sándwich con Jamón y Queso en Pan Artesanal - Gluten Free"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSand-JyQ-Gluten-Free-425-x-425.png",
+            "alt": "Sándwich con Jamón y Queso en Pan Artesanal - Gluten Free"
+        },
+        "section": "",
+        "seo": {
+            "title": "Sándwich con Jamón y Queso en Pan Artesanal",
+            "description": "Sándwich con Jamón y Queso en Pan Artesanal",
+            "keyword": "Sándwich con Jamón y Queso en Pan Artesanal"
+        }
+    },
+    {
+        "id": "465e5f06-4ddc-4f09-9024-ba1e4ff5297c",
+        "title": "Focaccia Caprese",
+        "subtitle": "",
+        "body": "Pan de focaccia espolvoreado con queso, relleno de tomate, queso y una deliciosa crema de pesto.",
+        "url": "/producto/focaccia-caprese",
+        "menu": {
+            "id": "65ef38ca-4acd-420a-9d2a-5f17dea445ba",
+            "name": "Sándwichs & más",
+            "description": "",
+            "url": "/menu/comida/almuerzos/sandwichs",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FFocaccia-Caprese-425-x-425.png",
+            "alt": "Focaccia Caprese"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FFocaccia-Caprese-425-x-425.png",
+            "alt": "Focaccia Caprese"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FFocaccia-Caprese-425-x-425.png",
+            "alt": "Focaccia Caprese"
+        },
+        "section": "",
+        "seo": {
+            "title": "Focaccia Caprese",
+            "description": "Focaccia Caprese",
+            "keyword": "Focaccia Caprese"
+        }
+    },
+    {
+        "id": "13e4b6d8-3b95-42de-8a62-748069f0bbaa",
+        "title": "Sandwich Pollo Multicereal ",
+        "subtitle": "",
+        "body": "Ciabatta de pan multicereal rellena de pollo, queso, tomate y mayonesa.",
+        "url": "/producto/sandwich-pollo-multicereal",
+        "menu": {
+            "id": "65ef38ca-4acd-420a-9d2a-5f17dea445ba",
+            "name": "Sándwichs & más",
+            "description": "",
+            "url": "/menu/comida/almuerzos/sandwichs",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSand-Pollo-Multi-425-x-425.png",
+            "alt": "Sandwich Pollo Multicereal"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSand-Pollo-Multi-425-x-425.png",
+            "alt": "Sandwich Pollo Multicereal"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSand-Pollo-Multi-425-x-425.png",
+            "alt": "Sandwich Pollo Multicereal"
+        },
+        "section": "",
+        "seo": {
+            "title": "Sandwich Pollo Multicereal",
+            "description": "Sandwich Pollo Multicereal",
+            "keyword": "Sandwich Pollo Multicereal"
+        }
+    },
+    {
+        "id": "693aa562-4010-4890-b98d-bc224e347b91",
+        "title": "Bagel Sandwich",
+        "subtitle": "",
+        "body": "Exquisito bagel multicereal combinado con queso cheddar, panceta y huevo.",
+        "url": "/producto/bagel-sandwich",
+        "menu": {
+            "id": "65ef38ca-4acd-420a-9d2a-5f17dea445ba",
+            "name": "Sándwichs & más",
+            "description": "",
+            "url": "/menu/comida/almuerzos/sandwichs",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBagel-Sandwich-425-x-425.png",
+            "alt": "Bagel Sandwich"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBagel-Sandwich-425-x-425.png",
+            "alt": "Bagel Sandwich"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBagel-Sandwich-425-x-425.png",
+            "alt": "Bagel Sandwich"
+        },
+        "section": "",
+        "seo": {
+            "title": "Bagel Sandwich",
+            "description": "Bagel Sandwich",
+            "keyword": "Bagel Sandwich"
+        }
+    },
+    {
+        "id": "6c1aec7d-4e22-4af4-a9be-a71a73d5a09d",
+        "title": "Sandwich Tres Quesos",
+        "subtitle": "",
+        "body": "Sandwich de pan artesanal relleno con queso muzzarella, parmesano y cheddar.",
+        "url": "/producto/sandwich-tres-quesos",
+        "menu": {
+            "id": "65ef38ca-4acd-420a-9d2a-5f17dea445ba",
+            "name": "Sándwichs & más",
+            "description": "",
+            "url": "/menu/comida/almuerzos/sandwichs",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSand-3-Quesos-ARG-425-x-425.png",
+            "alt": "Sandwich Tres Quesos"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSand-3-Quesos-ARG-425-x-425.png",
+            "alt": "Sandwich Tres Quesos"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSand-3-Quesos-ARG-425-x-425.png",
+            "alt": "Sandwich Tres Quesos"
+        },
+        "section": "",
+        "seo": {
+            "title": "Sandwich Tres Quesos",
+            "description": "Sandwich Tres Quesos",
+            "keyword": "Sandwich Tres Quesos"
+        }
+    },
+    {
+        "id": "3c206aed-209e-4bd3-815c-ac5a3c5cc02f",
+        "title": "Croque Monsieur",
+        "subtitle": "",
+        "body": "Delicioso sandwich de jamón y queso, combinado con salsa bechamel y queso gratinado.",
+        "url": "/producto/croque-monsieur",
+        "menu": {
+            "id": "65ef38ca-4acd-420a-9d2a-5f17dea445ba",
+            "name": "Sándwichs & más",
+            "description": "",
+            "url": "/menu/comida/almuerzos/sandwichs",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCroque-Monsieur-425-x-425.png",
+            "alt": "Croque Monsieur"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCroque-Monsieur-425-x-425.png",
+            "alt": "Croque Monsieur"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCroque-Monsieur-425-x-425.png",
+            "alt": "Croque Monsieur"
+        },
+        "section": "",
+        "seo": {
+            "title": "Croque Monsieur",
+            "description": "Croque Monsieur",
+            "keyword": "Croque Monsieur"
+        }
+    },
+    {
+        "id": "2bb682d2-c3af-4505-b4a8-61f8bfdfc912",
+        "title": "Tostado de jamón y queso",
+        "subtitle": "",
+        "body": "Un clásico triángulo de jamón y queso, en pan de miga blanco con semillas de amapola.",
+        "url": "/producto/tostado-de-jamon-y-queso",
+        "menu": {
+            "id": "65ef38ca-4acd-420a-9d2a-5f17dea445ba",
+            "name": "Sándwichs & más",
+            "description": "",
+            "url": "/menu/comida/almuerzos/sandwichs",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTostado-JyQ-425-x-425.png",
+            "alt": "Tostado de jamón y queso"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTostado-JyQ-425-x-425.png",
+            "alt": "Tostado de jamón y queso"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTostado-JyQ-425-x-425.png",
+            "alt": "Tostado de jamón y queso"
+        },
+        "section": "",
+        "seo": {
+            "title": "Tostado de jamón y queso",
+            "description": "Tostado de jamón y queso",
+            "keyword": "Tostado de jamón y queso"
+        }
+    },
+    {
+        "id": "c36b3c75-d117-42c7-a9b2-39786835d08d",
+        "title": "Tarta de Puerro",
+        "subtitle": "",
+        "body": "Deliciosa tarta rellena de puerro, cebolla y queso.",
+        "url": "/producto/tarta-de-puerro",
+        "menu": {
+            "id": "65ef38ca-4acd-420a-9d2a-5f17dea445ba",
+            "name": "Sándwichs & más",
+            "description": "",
+            "url": "/menu/comida/almuerzos/sandwichs",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTarta-Puerro-425-x-425.png",
+            "alt": "Tarta de Puerro"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTarta-Puerro-425-x-425.png",
+            "alt": "Tarta de Puerro"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTarta-Puerro-425-x-425.png",
+            "alt": "Tarta de Puerro"
+        },
+        "section": "",
+        "seo": {
+            "title": "Tarta de Puerro",
+            "description": "Tarta de Puerro",
+            "keyword": "Tarta de Puerro"
+        }
+    },
+    {
+        "id": "61756b3b-5f4d-4a2c-ac78-c9fb9e0ee398",
+        "title": "Tarta de Calabaza",
+        "subtitle": "",
+        "body": "Exquisita tarta con masa integral rellena de calabaza, queso gratinado y semillas.",
+        "url": "/producto/tarta-de-calabaza",
+        "menu": {
+            "id": "65ef38ca-4acd-420a-9d2a-5f17dea445ba",
+            "name": "Sándwichs & más",
+            "description": "",
+            "url": "/menu/comida/almuerzos/sandwichs",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTarta-Calabaza-425-x-425.png",
+            "alt": "Tarta de Calabaza"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTarta-Calabaza-425-x-425.png",
+            "alt": "Tarta de Calabaza"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FTarta-Calabaza-425-x-425.png",
+            "alt": "Tarta de Calabaza"
+        },
+        "section": "",
+        "seo": {
+            "title": "Tarta de Calabaza",
+            "description": "Tarta de Calabaza",
+            "keyword": "Tarta de Calabaza"
+        }
+    }
+]}

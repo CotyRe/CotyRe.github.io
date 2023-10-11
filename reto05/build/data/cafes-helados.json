@@ -1,0 +1,648 @@
+{"products": [
+    {
+        "id": "f3abc9e4-3708-4bc8-9a0e-46f09d4ef341",
+        "title": "Avellana Shaken Espresso con Avena Helado",
+        "subtitle": "",
+        "body": "Café Espresso batido con jarabe de avellana y cubierto con bebida de avena.",
+        "url": "/producto/avellana-shaken-espresso-con-avena-helado",
+        "menu": {
+            "id": "64336d7d-c721-4cb8-a39e-88d2f2ba6806",
+            "name": "Shaken Espresso",
+            "description": "",
+            "url": "/menu/bebidas/cafes-helados/shaken-espresso",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FShaken%20Espresso%20Frio%20Avellana.png",
+            "alt": "Avellana Shaken Espresso con Avena Helado"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FShaken%20Espresso%20Frio%20Avellana.png",
+            "alt": "Avellana Shaken Espresso con Avena Helado"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FShaken%20Espresso%20Frio%20Avellana.png",
+            "alt": "Avellana Shaken Espresso con Avena Helado"
+        },
+        "section": "",
+        "seo": {
+            "title": "Avellana Shaken Espresso con Avena Helado",
+            "description": "Avellana Shaken Espresso con Avena Helado",
+            "keyword": "Avellana Shaken Espresso con Avena Helado"
+        }
+    },
+    {
+        "id": "f8ec61a8-3a7b-4c6a-a43c-d2639c41f79e",
+        "title": "Chocolate Shaken Espresso con Avena Helado",
+        "subtitle": "",
+        "body": "Café Espresso batido con salsa mocha y cubierto con bebida de avena.",
+        "url": "/producto/chocolate-shaken-espresso-con-avena-helado",
+        "menu": {
+            "id": "64336d7d-c721-4cb8-a39e-88d2f2ba6806",
+            "name": "Shaken Espresso",
+            "description": "",
+            "url": "/menu/bebidas/cafes-helados/shaken-espresso",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FShaken%20Espresso%20Frio%20Chocolate.png",
+            "alt": "Chocolate Shaken Espresso con Avena Helado"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FShaken%20Espresso%20Frio%20Chocolate.png",
+            "alt": "Chocolate Shaken Espresso con Avena Helado"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FShaken%20Espresso%20Frio%20Chocolate.png",
+            "alt": "Chocolate Shaken Espresso con Avena Helado"
+        },
+        "section": "",
+        "seo": {
+            "title": "Chocolate Shaken Espresso con Avena Helado",
+            "description": "Chocolate Shaken Espresso con Avena Helado",
+            "keyword": "Chocolate Shaken Espresso con Avena Helado"
+        }
+    },
+    {
+        "id": "b648235a-ffb9-44f1-b8e7-8a30957143de",
+        "title": "Café del día con Leche Helado",
+        "subtitle": "",
+        "body": "Nuestros exquisitos y selectos granos de café preparados en método filtrado y agregado de hielo para una infusión refrescante.",
+        "url": "/producto/cafe-del-dia-con-leche-helado",
+        "menu": {
+            "id": "e4fc4b94-2442-41c1-b2dc-9b8b33ec5c4a",
+            "name": "Café filtrado",
+            "description": "",
+            "url": "/menu/bebidas/cafes-helados/cafe-filtrado",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCortado%20425x425%20sin%20fondo%20(1).png",
+            "alt": "Café del día con leche Helado"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCortado%20425x425%20sin%20fondo%20(1).png",
+            "alt": "Café del día con leche Helado"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCortado%20425x425%20sin%20fondo%20(1).png",
+            "alt": "Café del día con leche Helado"
+        },
+        "section": "",
+        "seo": {
+            "title": "Café del día con Leche Helado",
+            "description": "Café del día con Leche Helado",
+            "keyword": "Café del día con Leche Helado"
+        }
+    },
+    {
+        "id": "793c255a-a3dd-4600-8c67-277cafe366a4",
+        "title": "Café del día Helado",
+        "subtitle": "",
+        "body": "Nuestros exquisitos y selectos granos de café preparados en método filtrado.",
+        "url": "/producto/cafe-del-dia-helado",
+        "menu": {
+            "id": "e4fc4b94-2442-41c1-b2dc-9b8b33ec5c4a",
+            "name": "Café filtrado",
+            "description": "",
+            "url": "/menu/bebidas/cafes-helados/cafe-filtrado",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Americano%20425x425%20sin%20fondo_0.png",
+            "alt": "Café del día Helado"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Americano%20425x425%20sin%20fondo_0.png",
+            "alt": "Café del día Helado"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Americano%20425x425%20sin%20fondo_0.png",
+            "alt": "Café del día Helado"
+        },
+        "section": "",
+        "seo": {
+            "title": "Café del día Helado",
+            "description": "Café del día Helado",
+            "keyword": "Café del día Helado"
+        }
+    },
+    {
+        "id": "ae899678-d096-4776-ad22-7b3200adaa7a",
+        "title": "Skinny Caramel Macchiato Helado",
+        "subtitle": "",
+        "body": "Hielo, vainilla sin azúcar y leche descremada \"manchada\" con espresso, finalizada con el característico dibujo de caramelo.",
+        "url": "/producto/skinny-caramel-macchiato-helado",
+        "menu": {
+            "id": "e0df4291-5169-4c95-ba9f-6836c614e817",
+            "name": "Macchiatos",
+            "description": "",
+            "url": "/menu/bebidas/cafes-helados/machiattos",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Caramel%20Macchiato%20425x425%20sin%20fondo_0.png",
+            "alt": "Skinny Caramel Macchiato Helado"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Caramel%20Macchiato%20425x425%20sin%20fondo_0.png",
+            "alt": "Skinny Caramel Macchiato Helado"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Caramel%20Macchiato%20425x425%20sin%20fondo_0.png",
+            "alt": "Skinny Caramel Macchiato Helado"
+        },
+        "section": "",
+        "seo": {
+            "title": "Skinny Caramel Macchiato Helado",
+            "description": "Skinny Caramel Macchiato Helado",
+            "keyword": "Skinny Caramel Macchiato Helado"
+        }
+    },
+    {
+        "id": "e633647d-2a7a-49a5-b3a5-579907bc1ef8",
+        "title": "Skinny Vainilla Latte Helado",
+        "subtitle": "",
+        "body": "Delicioso café espresso con leche descremada, hielo y toques de vainilla sin azúcar.",
+        "url": "/producto/skinny-vainilla-latte-helado",
+        "menu": {
+            "id": "40543cf1-679c-4267-a3e8-b4c2e4a0df9c",
+            "name": "Lattes",
+            "description": "",
+            "url": "/menu/bebidas/cafes-helados/latte",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSkinny%20Vainilla%20Latte%20425x425%20sin%20fondo%20(1).png",
+            "alt": "Skinny Vainilla Latte Helado"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSkinny%20Vainilla%20Latte%20425x425%20sin%20fondo%20(1).png",
+            "alt": "Skinny Vainilla Latte Helado"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSkinny%20Vainilla%20Latte%20425x425%20sin%20fondo%20(1).png",
+            "alt": "Skinny Vainilla Latte Helado"
+        },
+        "section": "",
+        "seo": {
+            "title": "Skinny Vainilla Latte Helado",
+            "description": "Skinny Vainilla Latte Helado",
+            "keyword": "Skinny Vainilla Latte Helado"
+        }
+    },
+    {
+        "id": "1d7445d9-bafc-4018-8590-864a4a83b031",
+        "title": "Americano Helado",
+        "subtitle": "",
+        "body": "Delicioso café espresso combinado con agua y hielo, al mejor estilo americano.",
+        "url": "/producto/americano-helado",
+        "menu": {
+            "id": "b0970910-39d0-4071-82e2-b9b2657813d1",
+            "name": "Americanos",
+            "description": "",
+            "url": "/menu/bebidas/cafes-helados/americano",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Americano%20425x425%20sin%20fondo.png",
+            "alt": "Americano Helado"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Americano%20425x425%20sin%20fondo.png",
+            "alt": "Americano Helado"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Americano%20425x425%20sin%20fondo.png",
+            "alt": "Americano Helado"
+        },
+        "section": "",
+        "seo": {
+            "title": "Americano Helado",
+            "description": "Americano Helado",
+            "keyword": "Americano Helado"
+        }
+    },
+    {
+        "id": "5a89f1de-5ea2-4c25-8610-9240451bbbd9",
+        "title": "Cappuccino Helado",
+        "subtitle": "",
+        "body": "El balance perfecto entre nuestro café espresso, hielo, leche y abundante espuma de leche.",
+        "url": "/producto/cappuccino-helado",
+        "menu": {
+            "id": "eb5caa67-2d90-4e61-b5d4-7bf40a45fa76",
+            "name": "Cappuccinos",
+            "description": "",
+            "url": "/menu/bebidas/cafes-helados/cappuccino",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Cappuccino%20425x425%20sin%20fondo.png",
+            "alt": "Cappuccino Helado"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Cappuccino%20425x425%20sin%20fondo.png",
+            "alt": "Cappuccino Helado"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Cappuccino%20425x425%20sin%20fondo.png",
+            "alt": "Cappuccino Helado"
+        },
+        "section": "",
+        "seo": {
+            "title": "Cappuccino Helado",
+            "description": "Cappuccino Helado",
+            "keyword": "Cappuccino Helado"
+        }
+    },
+    {
+        "id": "88f64737-0c29-4576-a127-691670c2bb09",
+        "title": "Cold Brew Cold Foam",
+        "subtitle": "",
+        "body": "Bebida helada a base de granos de café colombianos infusionados por 20 horas coronada con una cremosa espuma de leche fría.",
+        "url": "/producto/cold-brew-cold-foam",
+        "menu": {
+            "id": "c90cbdeb-22b0-4114-9f53-6278821b7c34",
+            "name": "Cold Brews",
+            "description": "",
+            "url": "/menu/bebidas/cafes-helados/cold-brew",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCold%20Brew%20Cold%20Foam%20425x425%20sin%20fondo.png",
+            "alt": "Cold Brew Cold Foam"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCold%20Brew%20Cold%20Foam%20425x425%20sin%20fondo.png",
+            "alt": "Cold Brew Cold Foam"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCold%20Brew%20Cold%20Foam%20425x425%20sin%20fondo.png",
+            "alt": "Cold Brew Cold Foam"
+        },
+        "section": "",
+        "seo": {
+            "title": "Cold Brew Cold Foam",
+            "description": "Cold Brew Cold Foam",
+            "keyword": "Cold Brew Cold Foam"
+        }
+    },
+    {
+        "id": "c6da4bd5-62f7-492a-91b4-580fbf57a11b",
+        "title": "Sweet Vainilla Cold Brew",
+        "subtitle": "",
+        "body": "Bebida helada a base de granos de café colombianos infusionados por 20 horas, endulzada con vainilla y finalizada con crema de leche.",
+        "url": "/producto/sweet-vainilla-cold-brew",
+        "menu": {
+            "id": "c90cbdeb-22b0-4114-9f53-6278821b7c34",
+            "name": "Cold Brews",
+            "description": "",
+            "url": "/menu/bebidas/cafes-helados/cold-brew",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCold%20Brew%20Vainilla%20Sweet%20Cream%20425x425%20sin%20fondo.png",
+            "alt": "Sweet Vainilla Cold Brew"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCold%20Brew%20Vainilla%20Sweet%20Cream%20425x425%20sin%20fondo.png",
+            "alt": "Sweet Vainilla Cold Brew"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCold%20Brew%20Vainilla%20Sweet%20Cream%20425x425%20sin%20fondo.png",
+            "alt": "Sweet Vainilla Cold Brew"
+        },
+        "section": "",
+        "seo": {
+            "title": "Sweet Vainilla Cold Brew",
+            "description": "Sweet Vainilla Cold Brew",
+            "keyword": "Sweet Vainilla Cold Brew"
+        }
+    },
+    {
+        "id": "1503b1e5-21f4-43c7-b93d-575fb3f74301",
+        "title": "Cold Brew",
+        "subtitle": "",
+        "body": "Bebida helada a base de granos de café colombianos infusionados por 20 horas.",
+        "url": "/producto/cold-brew",
+        "menu": {
+            "id": "c90cbdeb-22b0-4114-9f53-6278821b7c34",
+            "name": "Cold Brews",
+            "description": "",
+            "url": "/menu/bebidas/cafes-helados/cold-brew",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCold%20Brew%20Black%20425x425%20sin%20fondo.png",
+            "alt": "Cold Brew"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCold%20Brew%20Black%20425x425%20sin%20fondo.png",
+            "alt": "Cold Brew"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCold%20Brew%20Black%20425x425%20sin%20fondo.png",
+            "alt": "Cold Brew"
+        },
+        "section": "",
+        "seo": {
+            "title": "Cold Brew",
+            "description": "Cold Brew",
+            "keyword": "Cold Brew"
+        }
+    },
+    {
+        "id": "e0dd8183-4264-442f-a264-e7e4e9508d9a",
+        "title": "Latte Helado",
+        "subtitle": "",
+        "body": "Deliciosa combinación de café espresso con hielo y leche.",
+        "url": "/producto/latte-helado",
+        "menu": {
+            "id": "40543cf1-679c-4267-a3e8-b4c2e4a0df9c",
+            "name": "Lattes",
+            "description": "",
+            "url": "/menu/bebidas/cafes-helados/latte",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Latte%20425x425%20sin%20fondo.png",
+            "alt": "Latte Helado"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Latte%20425x425%20sin%20fondo.png",
+            "alt": "Latte Helado"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Latte%20425x425%20sin%20fondo.png",
+            "alt": "Latte Helado"
+        },
+        "section": "",
+        "seo": {
+            "title": "Latte Helado",
+            "description": "Latte Helado",
+            "keyword": "Latte Helado"
+        }
+    },
+    {
+        "id": "afca5bda-743b-42d1-84c4-ee02285c6418",
+        "title": "Vainilla Latte Helado",
+        "subtitle": "",
+        "body": "Delicioso café espresso con leche, hielo y dulces toques de vainilla.",
+        "url": "/producto/vainilla-latte-helado",
+        "menu": {
+            "id": "40543cf1-679c-4267-a3e8-b4c2e4a0df9c",
+            "name": "Lattes",
+            "description": "",
+            "url": "/menu/bebidas/cafes-helados/latte",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Vainilla%20Latte%20425x425%20sin%20fondo.png",
+            "alt": "Vainilla Latte Helado"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Vainilla%20Latte%20425x425%20sin%20fondo.png",
+            "alt": "Vainilla Latte Helado"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Vainilla%20Latte%20425x425%20sin%20fondo.png",
+            "alt": "Vainilla Latte Helado"
+        },
+        "section": "",
+        "seo": {
+            "title": "Vainilla Latte Helado",
+            "description": "Vainilla Latte Helado",
+            "keyword": "Vainilla Latte Helado"
+        }
+    },
+    {
+        "id": "cc744f55-b068-4eed-9dbc-43e86906b846",
+        "title": "Mocha Blanco Helado",
+        "subtitle": "",
+        "body": "Irresistible combinación de chocolate blanco, shots de espresso, hielo y leche, coronado con crema batida.",
+        "url": "/producto/mocha-blanco-helado",
+        "menu": {
+            "id": "3b6fe96a-f470-4567-a760-c0e63ca6908e",
+            "name": "Mochas",
+            "description": "",
+            "url": "/menu/bebidas/cafes-helados/mocha",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Mocha%20Blanco%20425x425%20sin%20fondo.png",
+            "alt": "Mocha Blanco Helado"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Mocha%20Blanco%20425x425%20sin%20fondo.png",
+            "alt": "Mocha Blanco Helado"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Mocha%20Blanco%20425x425%20sin%20fondo.png",
+            "alt": "Mocha Blanco Helado"
+        },
+        "section": "",
+        "seo": {
+            "title": "Mocha Blanco Helado",
+            "description": "Mocha Blanco Helado",
+            "keyword": "Mocha Blanco Helado"
+        }
+    },
+    {
+        "id": "9a02f01c-5ea2-4598-8f03-bc0a1d5ee27f",
+        "title": "Mocha Helado",
+        "subtitle": "",
+        "body": "Intenso chocolate con café espresso, hielo y leche, coronado con crema batida.",
+        "url": "/producto/mocha-helado",
+        "menu": {
+            "id": "3b6fe96a-f470-4567-a760-c0e63ca6908e",
+            "name": "Mochas",
+            "description": "",
+            "url": "/menu/bebidas/cafes-helados/mocha",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Mocha%20425x425%20sin%20fondo.png",
+            "alt": "Mocha Helado"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Mocha%20425x425%20sin%20fondo.png",
+            "alt": "Mocha Helado"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Mocha%20425x425%20sin%20fondo.png",
+            "alt": "Mocha Helado"
+        },
+        "section": "",
+        "seo": {
+            "title": "Mocha Helado",
+            "description": "Mocha Helado",
+            "keyword": "Mocha Helado"
+        }
+    },
+    {
+        "id": "b94f20d1-4591-47d6-ac8d-5f4ff6baed61",
+        "title": "Dulce de Leche Latte Helado",
+        "subtitle": "",
+        "body": "Café espresso con delicioso dulce de leche, hielo y leche con un remolino de crema batida y salsa de caramelo.",
+        "url": "/producto/dulce-de-leche-latte-helado",
+        "menu": {
+            "id": "40543cf1-679c-4267-a3e8-b4c2e4a0df9c",
+            "name": "Lattes",
+            "description": "",
+            "url": "/menu/bebidas/cafes-helados/latte",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Dulce%20de%20leche%20425x425%20sin%20fondo.png",
+            "alt": "Dulce de leche Helado"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Dulce%20de%20leche%20425x425%20sin%20fondo.png",
+            "alt": "Dulce de leche Helado"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Dulce%20de%20leche%20425x425%20sin%20fondo.png",
+            "alt": "Dulce de leche Helado"
+        },
+        "section": "",
+        "seo": {
+            "title": "Dulce de Leche Latte Helado",
+            "description": "Dulce de Leche Latte Helado",
+            "keyword": "Dulce de Leche Latte Helado"
+        }
+    },
+    {
+        "id": "69ef9efc-60ca-4df2-a6d7-487d121e91a1",
+        "title": "Caramel Macchiato Helado",
+        "subtitle": "",
+        "body": "Hielo, vainilla y leche \"manchada\" con espresso, finalizada con el característico dibujo de caramelo.",
+        "url": "/producto/caramel-macchiato-helado",
+        "menu": {
+            "id": "e0df4291-5169-4c95-ba9f-6836c614e817",
+            "name": "Macchiatos",
+            "description": "",
+            "url": "/menu/bebidas/cafes-helados/machiattos",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Caramel%20Macchiato%20425x425%20sin%20fondo.png",
+            "alt": "Caramel Macchiato Helado"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Caramel%20Macchiato%20425x425%20sin%20fondo.png",
+            "alt": "Caramel Macchiato Helado"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FIced%20Caramel%20Macchiato%20425x425%20sin%20fondo.png",
+            "alt": "Caramel Macchiato Helado"
+        },
+        "section": "",
+        "seo": {
+            "title": "Caramel Macchiato Helado",
+            "description": "Caramel Macchiato Helado",
+            "keyword": "Caramel Macchiato Helado"
+        }
+    }
+]}

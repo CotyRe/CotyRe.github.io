@@ -1,0 +1,306 @@
+{"products":[
+    {
+        "id": "1d4e3f17-fb3e-4d58-adf1-adc629b0dc34",
+        "title": "Porridge Avena Chocolate y Maní",
+        "subtitle": "",
+        "body": "Avena, maní y chocolate en una cremosa mezcla con tu leche o bebida vegetal favorita.",
+        "url": "/producto/porridge-avena-chocolate-y-mani",
+        "menu": {
+            "id": "04a07daa-20fa-4797-944b-b4ff0fc45e4a",
+            "name": "Frutos secos & más",
+            "description": "",
+            "url": "/menu/comida/snacks/frutos-secos-saludable-snacks",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FPorridge-425.png",
+            "alt": "Porridge"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FPorridge-425.png",
+            "alt": "Porridge"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FPorridge-425.png",
+            "alt": "Porridge"
+        },
+        "section": "",
+        "seo": {
+            "title": "Porridge Avena Chocolate y Maní",
+            "description": "Porridge Avena Chocolate y Maní",
+            "keyword": "Porridge Avena Chocolate y Maní"
+        }
+    },
+    {
+        "id": "d074cd8e-85d4-43d2-9ae2-d424285a3945",
+        "title": "Mix de Frutos Secos",
+        "subtitle": "",
+        "body": "Mezcla de chips de banana, castañas, nueces, pasas de uva morenas y rubias",
+        "url": "/producto/mix-de-frutos-secos",
+        "menu": {
+            "id": "04a07daa-20fa-4797-944b-b4ff0fc45e4a",
+            "name": "Frutos secos & más",
+            "description": "",
+            "url": "/menu/comida/snacks/frutos-secos-saludable-snacks",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMix-frutos-secos-425.png",
+            "alt": "Mix de Frutos Secos"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMix-frutos-secos-425.png",
+            "alt": "Mix de Frutos Secos"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMix-frutos-secos-425.png",
+            "alt": "Mix de Frutos Secos"
+        },
+        "section": "",
+        "seo": {
+            "title": "Mix de Frutos Secos",
+            "description": "Mix de Frutos Secos",
+            "keyword": "Mix de Frutos Secos"
+        }
+    },
+    {
+        "id": "7a501a5e-0b37-4a45-afbf-b9d86300cc38",
+        "title": "Biscotti con Castañas",
+        "subtitle": "",
+        "body": "Delicioso y crujiente pan italiano con castañas.",
+        "url": "/producto/biscotti-con-castanas",
+        "menu": {
+            "id": "382b2e82-c621-4cf0-bae4-9d6a600c1725",
+            "name": "Biscotti & Cookies",
+            "description": "",
+            "url": "/menu/comida/snacks/biscotti-cookies",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBarra-Castanias-425.png",
+            "alt": "Biscotti con Castañas"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBarra-Castanias-425.png",
+            "alt": "Biscotti con Castañas"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBarra-Castanias-425.png",
+            "alt": "Biscotti con Castañas"
+        },
+        "section": "",
+        "seo": {
+            "title": "Biscotti con Castañas",
+            "description": "Biscotti con Castañas",
+            "keyword": "Biscotti con Castañas"
+        }
+    },
+    {
+        "id": "92665f99-affd-4ced-b711-1816f3162f4b",
+        "title": "Barra de Cereal Almendras",
+        "subtitle": "",
+        "body": "Barra dulce de cereales con almendras.",
+        "url": "/producto/barra-de-cereal-almendras",
+        "menu": {
+            "id": "04a07daa-20fa-4797-944b-b4ff0fc45e4a",
+            "name": "Frutos secos & más",
+            "description": "",
+            "url": "/menu/comida/snacks/frutos-secos-saludable-snacks",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBarra-Almendras-425.png",
+            "alt": "Barra de Cereal Almendras"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBarra-Almendras-425.png",
+            "alt": "Barra de Cereal Almendras"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FBarra-Almendras-425.png",
+            "alt": "Barra de Cereal Almendras"
+        },
+        "section": "",
+        "seo": {
+            "title": "Barra de Cereal Almendras",
+            "description": "Barra de Cereal Almendras",
+            "keyword": "Barra de Cereal Almendras"
+        }
+    },
+    {
+        "id": "85a0996c-b66b-4d90-86c5-763d15978bee",
+        "title": "Cookie Super Chocolate",
+        "subtitle": "",
+        "body": "Deliciosa cookie de chocolate con chips de chocolate.",
+        "url": "/producto/cookie-super-chocolate",
+        "menu": {
+            "id": "382b2e82-c621-4cf0-bae4-9d6a600c1725",
+            "name": "Biscotti & Cookies",
+            "description": "",
+            "url": "/menu/comida/snacks/biscotti-cookies",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCookie-Chocolate-425.png",
+            "alt": "Cookie Super Chocolate"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCookie-Chocolate-425.png",
+            "alt": "Cookie Super Chocolate"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCookie-Chocolate-425.png",
+            "alt": "Cookie Super Chocolate"
+        },
+        "section": "",
+        "seo": {
+            "title": "Cookie Super Chocolate",
+            "description": "Cookie Super Chocolate",
+            "keyword": "Cookie Super Chocolate"
+        }
+    },
+    {
+        "id": "435e7986-922c-44ac-a05d-44f172e76638",
+        "title": "Cookie Chips y Pecan",
+        "subtitle": "",
+        "body": "Deliciosa cookie de vainilla con chips de chocolate y nueces pecan.",
+        "url": "/producto/cookie-chips-y-pecan",
+        "menu": {
+            "id": "382b2e82-c621-4cf0-bae4-9d6a600c1725",
+            "name": "Biscotti & Cookies",
+            "description": "",
+            "url": "/menu/comida/snacks/biscotti-cookies",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCookie-Chips-Pecan-425.png",
+            "alt": "Cookie Chips y Pecan"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCookie-Chips-Pecan-425.png",
+            "alt": "Cookie Chips y Pecan"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCookie-Chips-Pecan-425.png",
+            "alt": "Cookie Chips y Pecan"
+        },
+        "section": "",
+        "seo": {
+            "title": "Cookie Chips y Pecan",
+            "description": "Cookie Chips y Pecan",
+            "keyword": "Cookie Chips y Pecan"
+        }
+    },
+    {
+        "id": "af14d7f9-c948-42a9-966c-b415d718eca5",
+        "title": "Cookie Limón y Jengibre",
+        "subtitle": "",
+        "body": "Deliciosa cookie sabor limón y jengibre.",
+        "url": "/producto/cookie-limon-y-jengibre",
+        "menu": {
+            "id": "382b2e82-c621-4cf0-bae4-9d6a600c1725",
+            "name": "Biscotti & Cookies",
+            "description": "",
+            "url": "/menu/comida/snacks/biscotti-cookies",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2F_Cookie-Limon-425.png",
+            "alt": "Cookie Limón y Jengibre"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2F_Cookie-Limon-425.png",
+            "alt": "Cookie Limón y Jengibre"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2F_Cookie-Limon-425.png",
+            "alt": "Cookie Limón y Jengibre"
+        },
+        "section": "",
+        "seo": {
+            "title": "Cookie Limón y Jengibre",
+            "description": "Cookie Limón y Jengibre",
+            "keyword": "Cookie Limón y Jengibre"
+        }
+    },
+    {
+        "id": "a81372e9-d5dc-4111-bf84-018848369bfe",
+        "title": "Moneda de Chocolate",
+        "subtitle": "",
+        "body": "Moneda de chocolate con leche.",
+        "url": "/producto/moneda-de-chocolate",
+        "menu": {
+            "id": "e21c1a24-b468-425b-a9a0-2b2729656429",
+            "name": "Chocolates",
+            "description": "",
+            "url": "/menu/comida/snacks/chocolate",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMoneda-425.png",
+            "alt": "Moneda de Chocolate"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMoneda-425.png",
+            "alt": "Moneda de Chocolate"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMoneda-425.png",
+            "alt": "Moneda de Chocolate"
+        },
+        "section": "",
+        "seo": {
+            "title": "Moneda de Chocolate",
+            "description": "Moneda de Chocolate",
+            "keyword": "Moneda de Chocolate"
+        }
+    }
+]}

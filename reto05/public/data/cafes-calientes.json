@@ -1,0 +1,534 @@
+{"products": [
+    {
+        "id": "27579750-de54-4742-8e83-3920052cc773",
+        "title": "Café del día con leche",
+        "subtitle": "",
+        "body": "Nuestras mezclas únicas de café en granos preparadas en sistema de filtrado, con una capa de leche vaporizada.",
+        "url": "/producto/cafe-del-dia-con-leche",
+        "menu": {
+            "id": "3a76de1e-a413-4c5b-b856-af7bfb0875d8",
+            "name": "Café filtrado",
+            "description": "",
+            "url": "/menu/bebidas/cafes-calientes/cafe-filtrado",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCortado%20425x425%20sin%20fondo.png",
+            "alt": "Café del día con leche "
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCortado%20425x425%20sin%20fondo.png",
+            "alt": "Café del día con leche "
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCortado%20425x425%20sin%20fondo.png",
+            "alt": "Café del día con leche "
+        },
+        "section": "",
+        "seo": {
+            "title": "Café del día con leche",
+            "description": "Café del día con leche",
+            "keyword": "Café del día con leche"
+        }
+    },
+    {
+        "id": "28732130-f041-4f90-bf5a-86d2a0babb3e",
+        "title": "Café del día",
+        "subtitle": "",
+        "body": "Nuestras mezclas únicas de café en granos preparadas en sistema de filtrado.",
+        "url": "/producto/cafe-del-dia",
+        "menu": {
+            "id": "3a76de1e-a413-4c5b-b856-af7bfb0875d8",
+            "name": "Café filtrado",
+            "description": "",
+            "url": "/menu/bebidas/cafes-calientes/cafe-filtrado",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FAmericano%20425x425%20sin%20fondo_0.png",
+            "alt": "Café del día"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FAmericano%20425x425%20sin%20fondo_0.png",
+            "alt": "Café del día"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FAmericano%20425x425%20sin%20fondo_0.png",
+            "alt": "Café del día"
+        },
+        "section": "",
+        "seo": {
+            "title": "Café del día",
+            "description": "Café del día",
+            "keyword": "Café del día"
+        }
+    },
+    {
+        "id": "4fb6b139-2df2-48b8-bf5f-cd7bf9b0c1c9",
+        "title": "Americano",
+        "subtitle": "",
+        "body": "Café espresso combinado con agua al mejor estilo americano.",
+        "url": "/producto/americano",
+        "menu": {
+            "id": "71fe201f-687a-4a0b-9916-e5f01b03e189",
+            "name": "Americanos",
+            "description": "",
+            "url": "/menu/bebidas/cafes-calientes/americano",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FAmericano%20425x425%20sin%20fondo.png",
+            "alt": "Americano "
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FAmericano%20425x425%20sin%20fondo.png",
+            "alt": "Americano "
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FAmericano%20425x425%20sin%20fondo.png",
+            "alt": "Americano "
+        },
+        "section": "",
+        "seo": {
+            "title": "Americano",
+            "description": "Americano",
+            "keyword": "Americano"
+        }
+    },
+    {
+        "id": "86437aff-2573-4486-b59b-c683dac80215",
+        "title": "Latte Macchiato",
+        "subtitle": "",
+        "body": "Leche vaporizada con shots de café espresso que finaliza con un punto dibujado en la superficie.",
+        "url": "/producto/latte-macchiato",
+        "menu": {
+            "id": "6d1a437e-826c-4837-a593-fbfa00fc9039",
+            "name": "Macchiatos",
+            "description": "",
+            "url": "/menu/bebidas/cafes-calientes/latte-macchiato",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FLatte%20Macchiato%20425x425%20sin%20fondo.png",
+            "alt": "Latte Macchiato"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FLatte%20Macchiato%20425x425%20sin%20fondo.png",
+            "alt": "Latte Macchiato"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FLatte%20Macchiato%20425x425%20sin%20fondo.png",
+            "alt": "Latte Macchiato"
+        },
+        "section": "",
+        "seo": {
+            "title": "Latte Macchiato",
+            "description": "Latte Macchiato",
+            "keyword": "Latte Macchiato"
+        }
+    },
+    {
+        "id": "7c48ae9b-66bc-49e2-aa01-e787cf9717df",
+        "title": "Skinny Vainilla Latte",
+        "subtitle": "",
+        "body": "Café espresso con leche descremada al vapor y toques de vainilla sin azúcar.",
+        "url": "/producto/skinny-vainilla-latte",
+        "menu": {
+            "id": "8cb16209-3ab2-49ca-8487-3a22861112a5",
+            "name": "Lattes",
+            "description": "",
+            "url": "/menu/bebidas/cafes-calientes/latte",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSkinny%20Vainilla%20Latte%20425x425%20sin%20fondo.png",
+            "alt": "Skinny Vainilla Latte"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSkinny%20Vainilla%20Latte%20425x425%20sin%20fondo.png",
+            "alt": "Skinny Vainilla Latte"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FSkinny%20Vainilla%20Latte%20425x425%20sin%20fondo.png",
+            "alt": "Skinny Vainilla Latte"
+        },
+        "section": "",
+        "seo": {
+            "title": "Skinny Vainilla Latte",
+            "description": "Skinny Vainilla Latte",
+            "keyword": "Skinny Vainilla Latte"
+        }
+    },
+    {
+        "id": "8ee44213-6d77-4130-ae5b-4dd35e0d6c27",
+        "title": "Skinny Caramel Macchiato",
+        "subtitle": "",
+        "body": "Vainilla sin azucar y leche \"manchada\" con espresso, finalizada con el característico dibujo de caramelo",
+        "url": "/producto/skinny-caramel-macchiato",
+        "menu": {
+            "id": "6d1a437e-826c-4837-a593-fbfa00fc9039",
+            "name": "Macchiatos",
+            "description": "",
+            "url": "/menu/bebidas/cafes-calientes/latte-macchiato",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCaramel%20Macchiato%20425x425%20sin%20fondo.png",
+            "alt": "Skinny Caramel Macchiato"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCaramel%20Macchiato%20425x425%20sin%20fondo.png",
+            "alt": "Skinny Caramel Macchiato"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCaramel%20Macchiato%20425x425%20sin%20fondo.png",
+            "alt": "Skinny Caramel Macchiato"
+        },
+        "section": "",
+        "seo": {
+            "title": "Skinny Caramel Macchiato",
+            "description": "Skinny Caramel Macchiato",
+            "keyword": "Skinny Caramel Macchiato"
+        }
+    },
+    {
+        "id": "a5a6b0e9-9ecb-41d2-8f50-75c6c70496c0",
+        "title": "Flat White",
+        "subtitle": "",
+        "body": "Shots de café ristretto con leche vaporizada que finaliza con un punto dibujado en la superficie.",
+        "url": "/producto/flat-white",
+        "menu": {
+            "id": "4f7a672b-e7e1-4e59-b8ab-1a0f6f55934e",
+            "name": "Flat White",
+            "description": "",
+            "url": "/menu/bebidas/cafes-calientes/flat-white",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FFlat%20White%20425x425%20sin%20fondo.png",
+            "alt": "Flat White"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FFlat%20White%20425x425%20sin%20fondo.png",
+            "alt": "Flat White"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FFlat%20White%20425x425%20sin%20fondo.png",
+            "alt": "Flat White"
+        },
+        "section": "",
+        "seo": {
+            "title": "Flat White",
+            "description": "Flat White",
+            "keyword": "Flat White"
+        }
+    },
+    {
+        "id": "65b94cfe-acaf-4f9e-9b79-1d71651462c5",
+        "title": "Vainilla Latte",
+        "subtitle": "",
+        "body": "Café espresso con leche al vapor y toques de vainilla.",
+        "url": "/producto/vainilla-latte",
+        "menu": {
+            "id": "8cb16209-3ab2-49ca-8487-3a22861112a5",
+            "name": "Lattes",
+            "description": "",
+            "url": "/menu/bebidas/cafes-calientes/latte",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FVainilla%20latte%20425x425%20sin%20fondo.png",
+            "alt": "Vainilla Latte"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FVainilla%20latte%20425x425%20sin%20fondo.png",
+            "alt": "Vainilla Latte"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FVainilla%20latte%20425x425%20sin%20fondo.png",
+            "alt": "Vainilla Latte"
+        },
+        "section": "",
+        "seo": {
+            "title": "Vainilla Latte",
+            "description": "Vainilla Latte",
+            "keyword": "Vainilla Latte"
+        }
+    },
+    {
+        "id": "d6f6a6e9-c12c-4443-89c1-1a4efe34e1d5",
+        "title": "Mocha Blanco",
+        "subtitle": "",
+        "body": "Chocolate blanco, shots de Espresso y leche vaporizada, con crema batida.",
+        "url": "/producto/mocha-blanco",
+        "menu": {
+            "id": "2aec634d-9cb0-4ae3-8722-9ac77f662131",
+            "name": "Mochas",
+            "description": "",
+            "url": "/menu/bebidas/cafes-calientes/mocha",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMocha%20blanco%20425x425%20sin%20fondo.png",
+            "alt": "Mocha Blanco"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMocha%20blanco%20425x425%20sin%20fondo.png",
+            "alt": "Mocha Blanco"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMocha%20blanco%20425x425%20sin%20fondo.png",
+            "alt": "Mocha Blanco"
+        },
+        "section": "",
+        "seo": {
+            "title": "Mocha Blanco",
+            "description": "Mocha Blanco",
+            "keyword": "Mocha Blanco, Chocolate blanco"
+        }
+    },
+    {
+        "id": "0785eafd-3185-4412-a1dd-447cd09c6372",
+        "title": "Mocha",
+        "subtitle": "",
+        "body": "Chocolate con café espresso y leche al vapor, con crema batida.",
+        "url": "/producto/mocha",
+        "menu": {
+            "id": "2aec634d-9cb0-4ae3-8722-9ac77f662131",
+            "name": "Mochas",
+            "description": "",
+            "url": "/menu/bebidas/cafes-calientes/mocha",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMocha%20425x425%20sin%20fondo.png",
+            "alt": "Mocha "
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMocha%20425x425%20sin%20fondo.png",
+            "alt": "Mocha "
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FMocha%20425x425%20sin%20fondo.png",
+            "alt": "Mocha "
+        },
+        "section": "",
+        "seo": {
+            "title": "Mocha",
+            "description": "Mocha",
+            "keyword": "Mocha, Chocolate"
+        }
+    },
+    {
+        "id": "12a298dd-8910-46da-a07f-af4e4a2d25bd",
+        "title": "Cappuccino",
+        "subtitle": "",
+        "body": "Café espresso, leche vaporizada y abundante espuma de leche.",
+        "url": "/producto/cappuccino",
+        "menu": {
+            "id": "f9cdf67d-7631-4a49-b230-5a7cc16f4f27",
+            "name": "Cappuccinos",
+            "description": "",
+            "url": "/menu/bebidas/cafes-calientes/cappuccino",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCappuccino%20425x425%20sin%20fondo.png",
+            "alt": "Cappuccino "
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCappuccino%20425x425%20sin%20fondo.png",
+            "alt": "Cappuccino "
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-03%2FCappuccino%20425x425%20sin%20fondo.png",
+            "alt": "Cappuccino "
+        },
+        "section": "",
+        "seo": {
+            "title": "Cappuccino",
+            "description": "Cappuccino",
+            "keyword": "Cappuccino"
+        }
+    },
+    {
+        "id": "6709b70f-96f3-44f4-b460-03edd52a75e5",
+        "title": "Latte",
+        "subtitle": "",
+        "body": "Café espresso con leche vaporizada.",
+        "url": "/producto/latte",
+        "menu": {
+            "id": "8cb16209-3ab2-49ca-8487-3a22861112a5",
+            "name": "Lattes",
+            "description": "",
+            "url": "/menu/bebidas/cafes-calientes/latte",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-02%2FLatte%20425x425%20verde_1.png",
+            "alt": "Latte"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-02%2FLatte%20425x425%20verde_1.png",
+            "alt": "Latte"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-02%2FLatte%20425x425%20verde_1.png",
+            "alt": "Latte"
+        },
+        "section": "",
+        "seo": {
+            "title": "Latte",
+            "description": "Latte",
+            "keyword": "Latte"
+        }
+    },
+    {
+        "id": "2077e6b6-7bb1-44bb-9b8e-86fdf343d568",
+        "title": "Caramel Macchiato",
+        "subtitle": "",
+        "body": "Vainilla y leche \"manchada\" con espresso, finalizada con el característico dibujo de caramelo.",
+        "url": "/producto/caramel-macchiato",
+        "menu": {
+            "id": "6d1a437e-826c-4837-a593-fbfa00fc9039",
+            "name": "Macchiatos",
+            "description": "",
+            "url": "/menu/bebidas/cafes-calientes/latte-macchiato",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-02%2FCaramel%20Macchiato%20425x425%20verde_1.png",
+            "alt": "Caramel Macchiato"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-02%2FCaramel%20Macchiato%20425x425%20verde_1.png",
+            "alt": "Caramel Macchiato"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-02%2FCaramel%20Macchiato%20425x425%20verde_1.png",
+            "alt": "Caramel Macchiato"
+        },
+        "section": "",
+        "seo": {
+            "title": "Caramel Macchiato",
+            "description": "Caramel Macchiato",
+            "keyword": "Caramel Macchiato"
+        }
+    },
+    {
+        "id": "1e39fe83-b791-4321-9031-259689ff97be",
+        "title": "Dulce de leche Latte",
+        "subtitle": "",
+        "body": "Café espresso con dulce de leche, leche al vapor con crema batida y salsa de caramelo.",
+        "url": "/producto/dulce-de-leche-latte",
+        "menu": {
+            "id": "8cb16209-3ab2-49ca-8487-3a22861112a5",
+            "name": "Lattes",
+            "description": "",
+            "url": "/menu/bebidas/cafes-calientes/latte",
+            "bio": {
+                "text": "",
+                "short": ""
+            },
+            "avatar": "",
+            "columnaPodcast": "",
+            "socialLinks": ""
+        },
+        "thumbnail": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-02%2FDulce%20de%20leche%20latte%20425x425%20verde_1.png",
+            "alt": "Latte Dulce de leche"
+        },
+        "image": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-02%2FDulce%20de%20leche%20latte%20425x425%20verde_1.png",
+            "alt": "Latte Dulce de leche"
+        },
+        "share": {
+            "url": "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-02%2FDulce%20de%20leche%20latte%20425x425%20verde_1.png",
+            "alt": "Latte Dulce de leche"
+        },
+        "section": "",
+        "seo": {
+            "title": "Dulce de leche Latte",
+            "description": "Dulce de leche Latte",
+            "keyword": "Dulce de leche Latte"
+        }
+    }
+]}

@@ -1,0 +1,41 @@
+header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 0.5rem;
+    min-height: 90px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+nav {
+    color: #000;
+    font-weight: 700;
+    margin: 0 0.5rem;
+    border-bottom: 3px solid transparent;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+    }
+
+.logo-encabezado{
+    height: 50px;
+    width: 50px;
+}
+
+.link{
+    color:#000 ;
+    text-decoration: none;
+    text-transform: capitalize;
+    gap: 10px;
+    
+}
+
+
+p:hover{
+    border-bottom: 3px solid var(--main-dark-green);
+}
+
+a:active {
+    border-bottom: 3px solid var(--main-dark-green);
+    text-decoration: underline;
+}
